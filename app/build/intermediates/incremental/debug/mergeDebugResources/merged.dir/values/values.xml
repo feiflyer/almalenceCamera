@@ -1,0 +1,1810 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="JPEGQualityArrayCommon">
+        <item>100</item>
+        <item>95</item>
+        <item>90</item>
+        <item>80</item>
+    </string-array>
+    <string-array name="JPEGQualityValuesCommon">
+        <item>100</item>
+        <item>95</item>
+        <item>90</item>
+        <item>80</item>
+    </string-array>
+    <string-array name="antibandingArrayCommon">
+        <item>@string/pref_antibanding_auto</item>
+        <item>50 Hz</item>
+        <item>60 Hz</item>
+         <item>@string/pref_antibanding_off</item>
+    </string-array>
+    <string-array name="antibandingValuesCommon">
+        <item>3</item>
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="backArrayPreShot">
+    <item>1 sec</item>
+    <item>3 sec</item>
+    <item>5 sec</item>
+    <item>10 sec</item>
+    
+</string-array>
+    <string-array name="backValuesPreShot">
+    <item>1</item>
+    <item>3</item><item>5</item>
+    <item>10</item>
+    
+</string-array>
+    <string-array name="bestshotArray">
+   <item>@string/Res_Bestshot_3</item>
+   <item>@string/Res_Bestshot_5</item>
+   <item>@string/Res_Bestshot_10</item>
+</string-array>
+    <string-array name="bestshotValues">
+   <item>3</item>
+   <item>5</item>
+   <item>10</item>
+</string-array>
+    <string-array name="burstArray">
+   <item>@string/Res_Burst_3</item>
+   <item>@string/Res_Burst_5</item>
+   <item>@string/Res_Burst_10</item>
+   <item>@string/Res_Burst_15</item>
+   <item>@string/Res_Burst_20</item>
+</string-array>
+    <string-array name="burstPauseArray">
+   <item>@string/Res_Burst_Fast_Text</item>
+   <item>5 fps</item>
+   <item>2 fps</item>
+   <item>1 fps</item>
+</string-array>
+    <string-array name="burstPauseValues">
+   <item>0</item>
+   <item>200</item>
+   <item>500</item>
+   <item>1000</item>
+</string-array>
+    <string-array name="burstValues">
+   <item>3</item>
+   <item>5</item>
+   <item>10</item>
+   <item>15</item>
+   <item>20</item>
+</string-array>
+    <string-array name="colorArrayHDR">
+   <item>@string/Pref_HDR_BnW</item>
+   <item>@string/Pref_HDR_Pure</item>
+   <item>@string/Pref_HDR_Standard</item>
+   <item>@string/Pref_HDR_Saturated</item>
+</string-array>
+    <string-array name="colorValuesHDR">
+   <item>0</item>
+   <item>1</item>
+   <item>2</item>
+   <item>3</item>
+</string-array>
+    <string-array name="contrastArrayHDR">
+   <item>@string/Pref_HDR_Low</item>
+   <item>@string/Pref_HDR_Normal</item>
+   <item>@string/Pref_HDR_High</item>
+</string-array>
+    <string-array name="contrastValuesHDR">
+   <item>0</item>
+   <item>1</item>
+   <item>2</item>
+</string-array>
+    <string-array name="delayedCaptureArrayCommon">
+        <item>No delay</item>
+        <item>3 seconds</item>
+        <item>5 seconds</item>
+        <item>10 seconds</item>
+    </string-array>
+    <string-array name="delayedCaptureValuesCommon">
+        <item>0</item>
+        <item>3000</item>
+        <item>5000</item>
+        <item>10000</item>
+    </string-array>
+    <string-array name="dimsArrayCommon">
+        <item>@string/dimensions_none</item>
+    </string-array>
+    <string-array name="dimsArrayExpoBracketing">
+   <item>@string/Pref_ExpoBracketing_None</item>
+</string-array>
+    <string-array name="dimsArrayNight">
+   <item>@string/Pref_NightCapture_None</item>
+</string-array>
+    <string-array name="dimsArrayPreShot">
+   <item>@string/Pref_PreShot_None</item>
+</string-array>
+    <string-array name="dimsArrayVideo">
+   <item>@string/Pref_Video_None</item>
+</string-array>
+    <string-array name="dimsValuesCommon">
+        <item>0</item>
+    </string-array>
+    <string-array name="dimsValuesExpoBracketing">
+   <item>0</item>
+</string-array>
+    <string-array name="dimsValuesNight">
+   <item>0</item>
+</string-array>
+    <string-array name="dimsValuesPreShot">
+   <item>0</item>
+</string-array>
+    <string-array name="dimsValuesVideo">
+   <item>0</item>
+</string-array>
+    <string-array name="droLevelArray">
+   <item>@string/Dro_level_low</item>
+   <item>@string/Dro_level_medium</item>
+   <item>@string/Dro_level_high</item>
+</string-array>
+    <string-array name="droLevelValues">
+   <item>0</item>
+   <item>1</item>
+   <item>2</item>
+</string-array>
+    <string-array name="evArrayExpoBracketing">
+   <item>@string/Pref_ExpoBracketing_Expo</item>
+   <item>[-1   +1]</item>
+   <item>[-2, 0, +2]</item>
+</string-array>
+    <string-array name="evValuesExpoBracketing">
+   <item>0</item>
+   <item>1</item>
+   <item>2</item>
+</string-array>
+    <string-array name="expoArrayHDR">
+   <item>@string/Pref_HDR_Normal</item>
+   <item>@string/Pref_HDR_Bright</item>
+</string-array>
+    <string-array name="expoValuesHDR">
+   <item>0</item>
+   <item>1</item>
+</string-array>
+    <string-array name="exportNameArray">
+   <item>YEARMMDD_HHMMSS</item>
+   <item>YEARMMDD_HHMMSS_MODE</item>
+   <item>IMG_YEARMMDD_HHMMSS</item>
+   <item>IMG_YEARMMDD_HHMMSS_MODE</item>
+</string-array>
+    <string-array name="exportNameValues">
+   <item>1</item>
+   <item>2</item>
+   <item>3</item>
+   <item>4</item>
+</string-array>
+    <string-array name="focusArray">
+   <item>@string/Pref_NightCapture_Fixed</item>
+   <item>@string/Pref_NightCapture_Auto</item>
+   <item>@string/Pref_NightCapture_Refocus</item>
+</string-array>
+    <string-array name="focusValues">
+   <item>0</item>
+   <item>1</item>
+   <item>2</item>
+</string-array>
+    <string-array name="fpsArrayPreShot">
+    <item>@string/Pref_PreShot_1shot</item>
+    <item>@string/Pref_PreShot_2shot</item>
+    <item>@string/Pref_PreShot_3shot</item>
+    <item>@string/Pref_PreShot_4shot</item>
+    <item>@string/Pref_PreShot_5shot</item>
+    <item>@string/Pref_PreShot_10shot</item>
+</string-array>
+    <string-array name="fpsValuesPreShot">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>10</item>
+</string-array>
+    <string-array name="ghostArrayNight">
+   <item>@string/Pref_Night_None</item>
+   <item>@string/Pref_Night_Minor</item>
+   <item>@string/Pref_Night_Hard</item>
+</string-array>
+    <string-array name="ghostValuesNight">
+   <item>0</item>
+   <item>1</item>
+   <item>2</item>
+</string-array>
+    <string-array name="mcontrastArrayHDR">
+   <item>@string/Pref_HDR_Low</item>
+   <item>@string/Pref_HDR_Normal</item>
+   <item>@string/Pref_HDR_High</item>
+</string-array>
+    <string-array name="mcontrastValuesHDR">
+   <item>0</item>
+   <item>1</item>
+   <item>2</item>
+</string-array>
+    <string-array name="modeArrayPreShot">
+    <item>@string/Pref_PreShot_Low</item>
+    <item>@string/Pref_PreShot_High</item>
+</string-array>
+    <string-array name="modeValuesPreShot">
+    <item>0</item>
+    <item>1</item>
+</string-array>
+    <string-array name="noiseArrayHDR">
+   <item>@string/Pref_HDR_None</item>
+   <item>@string/Pref_HDR_Minor</item>
+   <item>@string/Pref_HDR_Hard</item>
+</string-array>
+    <string-array name="noiseArrayNight">
+   <item>@string/Pref_Night_None</item>
+   <item>@string/Pref_Night_Minor</item>
+   <item>@string/Pref_Night_Hard</item>
+</string-array>
+    <string-array name="noiseValuesHDR">
+   <item>0</item>
+   <item>1</item>
+   <item>2</item>
+</string-array>
+    <string-array name="noiseValuesNight">
+   <item>0</item>
+   <item>1</item>
+   <item>2</item>
+</string-array>
+    <string-array name="pauseArrayPreShot">
+    <item>0 sec</item>
+    <item>0.2 sec</item>
+    <item>0.5 sec</item>
+    <item>1 sec</item>
+</string-array>
+    <string-array name="pauseValuesPreShot">
+    <item>0</item>
+    <item>200</item>
+    <item>500</item>
+    <item>1000</item>
+</string-array>
+    <string-array name="plugin_capture_panoramaaugmented_aelockArray">
+   <item>@string/aelockNo</item>
+   <item>@string/aelockHorizontal</item>
+   <item>@string/aelockAlways</item>
+</string-array>
+    <string-array name="plugin_capture_panoramaaugmented_aelockValues">
+   <item>0</item>
+   <item>1</item>
+   <item>2</item>
+</string-array>
+    <string-array name="plugin_capture_panoramaaugmented_dimsArray">
+   <item>None</item>
+</string-array>
+    <string-array name="plugin_capture_panoramaaugmented_dimsValues">
+   <item>0</item>
+</string-array>
+    <string-array name="plugin_capture_panoramaaugmented_frameoverlapArray">
+   <item>2/3</item>
+   <item>1/2</item>
+   <item>1/3</item>
+
+</string-array>
+    <string-array name="plugin_capture_panoramaaugmented_frameoverlapValues">
+   <item>0</item>
+   <item>1</item>
+   <item>2</item>
+
+</string-array>
+    <string-array name="rotationNameArray">
+   <item>0</item>
+   <item>-90</item>
+   <item>+90</item>
+   <item>+180</item>
+</string-array>
+    <string-array name="rotationNameValues">
+   <item>0</item>
+   <item>1</item>
+   <item>2</item>
+   <item>3</item>
+</string-array>
+    <string-array name="saveArray">
+        <item>@string/save_to_phone</item>
+        <item>@string/save_to_memorycard</item>
+        <item>@string/save_to_custom</item>
+    </string-array>
+    <string-array name="saveInputArrayHDR">
+   <item>@string/Pref_HDR_SaveInputPref_None</item>
+   <item>@string/Pref_HDR_SaveInputPref_Summary</item>
+   <item>@string/Pref_HDR_SaveInputPref_Normal</item>
+</string-array>
+    <string-array name="saveInputValuesHDR">
+   <item>0</item>
+   <item>1</item>
+   <item>2</item>
+</string-array>
+    <string-array name="saveValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="selfTimerArray">
+   <item>@string/Res_SelfTimerCapture_Capture_1</item>
+   <item>@string/Res_SelfTimerCapture_Capture_2</item>
+   <item>@string/Res_SelfTimerCapture_Capture_3</item>
+</string-array>
+    <string-array name="selfTimerValues">
+   <item>1</item>
+   <item>2</item>
+   <item>3</item>
+</string-array>
+    <string-array name="shotOnReleaseArrayCommon">
+        <item>inactive</item>
+        <item>always active</item>
+        <item>5 seconds after press</item>
+        <item>15 seconds after press</item>
+    </string-array>
+    <string-array name="shotOnReleaseValuesCommon">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="shotOnTapArrayCommon">
+        <item>@string/pref_shot_on_tap_none</item>
+        <item>@string/pref_shot_on_tap_one_click</item>
+        <item>@string/pref_shot_on_tap_double_click</item>
+    </string-array>
+    <string-array name="shotOnTapValuesCommon">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="timerArray">
+   <item>3 sec</item>
+   <item>5 sec</item>
+   <item>10 sec</item>
+</string-array>
+    <string-array name="timerValues">
+   <item>3</item>
+   <item>5</item>
+   <item>10</item>
+</string-array>
+    <string-array name="timestampColorArrayCommon">
+        <item>@string/pref_timestamp_color_black</item>
+        <item>@string/pref_timestamp_color_white</item>
+        <item>@string/pref_timestamp_color_yellow</item>
+    </string-array>
+    <string-array name="timestampColorValuesCommon">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="timestampDateArrayCommon">
+        <item>none</item>
+        <item>yyyy/mm/dd</item>
+        <item>dd/mm/yyyy</item>
+        <item>mm/dd/yyyy</item>
+    </string-array>
+    <string-array name="timestampDateValuesCommon">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="timestampFontSizeArrayCommon">
+        <item>@string/pref_timestamp_fontsize_small</item>
+        <item>@string/pref_timestamp_fontsize_normal</item>
+        <item>@string/pref_timestamp_fontsize_big</item>
+    </string-array>
+    <string-array name="timestampFontSizeValuesCommon">
+        <item>80</item>
+        <item>60</item>
+        <item>40</item>
+    </string-array>
+    <string-array name="timestampGeoArray">
+        <item>@string/pref_shot_on_tap_none</item>
+        <item>"Lat/lng"</item>
+        <item>"Address"</item>
+    </string-array>
+    <string-array name="timestampGeoValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="timestampSeparatorArrayCommon">
+        <item>@string/pref_timestamp_separator_slash</item>
+        <item>@string/pref_timestamp_separator_dots</item>
+        <item>@string/pref_timestamp_separator_dashes</item>
+        <item>@string/pref_timestamp_separator_spaces</item>
+    </string-array>
+    <string-array name="timestampSeparatorValuesCommon">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="timestampTimeArrayCommon">
+        <item>none</item>
+        <item>12</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="timestampTimeValuesCommon">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="typeArrayGrid">
+   <item>@string/Pref_Grid_Golden1</item>
+   <item>@string/Pref_Grid_Golden2</item>
+   <item>@string/Pref_Grid_Golden3</item>
+   <item>@string/Pref_Grid_Golden4</item>
+   <item>@string/Pref_Grid_Thirds</item>
+   <item>@string/Pref_Grid_Bisection1</item>
+   <item>@string/Pref_Grid_Bisection2</item>
+   <item>@string/Pref_Grid_None</item>
+</string-array>
+    <string-array name="typeArrayHistogram">
+   <item>RGB</item>
+   <item>@string/Pref_HistogramVF_Luminance</item>
+   <item>@string/Pref_HistogramVF_None</item>
+</string-array>
+    <string-array name="typeValuesGrid">
+   <item>0</item>
+   <item>1</item>
+   <item>2</item>
+   <item>3</item>
+   <item>4</item>
+   <item>5</item>
+   <item>6</item>
+   <item>7</item>
+</string-array>
+    <string-array name="typeValuesHistogram">
+   <item>0</item>
+   <item>1</item>
+   <item>2</item>
+</string-array>
+    <string-array name="volumeButtonArrayCommon">
+        <item>@string/volumeBtnTakePic</item>
+        <item>@string/volumeBtnZoom</item>
+        <item>@string/volumeBtnExpoCorrection</item>
+        <item>@string/volumeBtnNone</item>
+    </string-array>
+    <string-array name="volumeButtonValuesCommon">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <attr format="reference" name="switchStyle"/>
+    <attr format="reference" name="textAppearance"/>
+    <color name="AliceBlue">#F0F8FF</color>
+    <color name="AntiqueWhite">#FAEBD7</color>
+    <color name="Aqua">#00FFFF</color>
+    <color name="Aquamarine">#7FFFD4</color>
+    <color name="Azure">#F0FFFF</color>
+    <color name="Beige">#F5F5DC</color>
+    <color name="Bisque">#FFE4C4</color>
+    <color name="Black">#000000</color>
+    <color name="BlanchedAlmond">#FFEBCD</color>
+    <color name="Blue">#0000FF</color>
+    <color name="BlueViolet">#8A2BE2</color>
+    <color name="Brown">#A52A2A</color>
+    <color name="BurlyWood">#DEB887</color>
+    <color name="CadetBlue">#5F9EA0</color>
+    <color name="Chartreuse">#7FFF00</color>
+    <color name="Chocolate">#D2691E</color>
+    <color name="Coral">#FF7F50</color>
+    <color name="CornflowerBlue">#6495ED</color>
+    <color name="Cornsilk">#FFF8DC</color>
+    <color name="Crimson">#DC143C</color>
+    <color name="Cyan">#00FFFF</color>
+    <color name="DarkBlue">#00008B</color>
+    <color name="DarkCyan">#008B8B</color>
+    <color name="DarkGoldenrod">#B8860B</color>
+    <color name="DarkGray">#A9A9A9</color>
+    <color name="DarkGreen">#006400</color>
+    <color name="DarkKhaki">#BDB76B</color>
+    <color name="DarkMagenta">#8B008B</color>
+    <color name="DarkOliveGreen">#556B2F</color>
+    <color name="DarkOrange">#FF8C00</color>
+    <color name="DarkOrchid">#9932CC</color>
+    <color name="DarkRed">#8B0000</color>
+    <color name="DarkSalmon">#E9967A</color>
+    <color name="DarkSeaGreen">#8FBC8F</color>
+    <color name="DarkSlateBlue">#483D8B</color>
+    <color name="DarkSlateGray">#2F4F4F</color>
+    <color name="DarkTurquoise">#00CED1</color>
+    <color name="DarkViolet">#9400D3</color>
+    <color name="DeepPink">#FF1493</color>
+    <color name="DeepSkyBlue">#00BFFF</color>
+    <color name="DimGray">#696969</color>
+    <color name="DodgerBlue">#1E90FF</color>
+    <color name="FireBrick">#B22222</color>
+    <color name="FloralWhite">#FFFAF0</color>
+    <color name="ForestGreen">#228B22</color>
+    <color name="Fuchsia">#FF00FF</color>
+    <color name="Gainsboro">#DCDCDC</color>
+    <color name="GhostWhite">#F8F8FF</color>
+    <color name="Gold">#FFD700</color>
+    <color name="Goldenrod">#DAA520</color>
+    <color name="Gray">#808080</color>
+    <color name="Green">#008000</color>
+    <color name="GreenYellow">#ADFF2F</color>
+    <color name="Honeydew">#F0FFF0</color>
+    <color name="HotPink">#FF69B4</color>
+    <color name="IndianRed">#CD5C5C</color>
+    <color name="Indigo">#4B0082</color>
+    <color name="Ivory">#FFFFF0</color>
+    <color name="Khaki">#F0E68C</color>
+    <color name="Lavender">#E6E6FA</color>
+    <color name="LavenderBlush">#FFF0F5</color>
+    <color name="LawnGreen">#7CFC00</color>
+    <color name="LemonChiffon">#FFFACD</color>
+    <color name="LightBlue">#ADD8E6</color>
+    <color name="LightCoral">#F08080</color>
+    <color name="LightCyan">#E0FFFF</color>
+    <color name="LightGoldenrodYellow">#FAFAD2</color>
+    <color name="LightGreen">#90EE90</color>
+    <color name="LightGrey">#D3D3D3</color>
+    <color name="LightPink">#FFB6C1</color>
+    <color name="LightSalmon">#FFA07A</color>
+    <color name="LightSeaGreen">#20B2AA</color>
+    <color name="LightSkyBlue">#87CEFA</color>
+    <color name="LightSlateGray">#778899</color>
+    <color name="LightSteelBlue">#B0C4DE</color>
+    <color name="LightYellow">#FFFFE0</color>
+    <color name="Lime">#00FF00</color>
+    <color name="LimeGreen">#32CD32</color>
+    <color name="Linen">#FAF0E6</color>
+    <color name="Magenta">#FF00FF</color>
+    <color name="Maroon">#800000</color>
+    <color name="MediumAquamarine">#66CDAA</color>
+    <color name="MediumBlue">#0000CD</color>
+    <color name="MediumOrchid">#BA55D3</color>
+    <color name="MediumPurple">#9370DB</color>
+    <color name="MediumSeaGreen">#3CB371</color>
+    <color name="MediumSlateBlue">#7B68EE</color>
+    <color name="MediumSpringGreen">#00FA9A</color>
+    <color name="MediumTurquoise">#48D1CC</color>
+    <color name="MediumVioletRed">#C71585</color>
+    <color name="MidnightBlue">#191970</color>
+    <color name="MintCream">#F5FFFA</color>
+    <color name="MistyRose">#FFE4E1</color>
+    <color name="Moccasin">#FFE4B5</color>
+    <color name="NavajoWhite">#FFDEAD</color>
+    <color name="Navy">#000080</color>
+    <color name="OldLace">#FDF5E6</color>
+    <color name="Olive">#808000</color>
+    <color name="OliveDrab">#6B8E23</color>
+    <color name="Orange">#FFA500</color>
+    <color name="OrangeRed">#FF4500</color>
+    <color name="Orchid">#DA70D6</color>
+    <color name="PaleGoldenrod">#EEE8AA</color>
+    <color name="PaleGreen">#98FB98</color>
+    <color name="PaleTurquoise">#AFEEEE</color>
+    <color name="PaleVioletRed">#DB7093</color>
+    <color name="PapayaWhip">#FFEFD5</color>
+    <color name="PeachPuff">#FFDAB9</color>
+    <color name="Peru">#CD853F</color>
+    <color name="Pink">#FFC0CB</color>
+    <color name="Plum">#DDA0DD</color>
+    <color name="PowderBlue">#B0E0E6</color>
+    <color name="Purple">#800080</color>
+    <color name="Red">#FF0000</color>
+    <color name="RosyBrown">#BC8F8F</color>
+    <color name="RoyalBlue">#4169E1</color>
+    <color name="SaddleBrown">#8B4513</color>
+    <color name="Salmon">#FA8072</color>
+    <color name="SandyBrown">#F4A460</color>
+    <color name="SeaGreen">#2E8B57</color>
+    <color name="Seashell">#FFF5EE</color>
+    <color name="Sienna">#A0522D</color>
+    <color name="Silver">#C0C0C0</color>
+    <color name="SkyBlue">#87CEEB</color>
+    <color name="SlateBlue">#6A5ACD</color>
+    <color name="SlateGray">#708090</color>
+    <color name="Snow">#FFFAFA</color>
+    <color name="SpringGreen">#00FF7F</color>
+    <color name="SteelBlue">#4682B4</color>
+    <color name="Tan">#D2B48C</color>
+    <color name="Teal">#008080</color>
+    <color name="Thistle">#D8BFD8</color>
+    <color name="Tomato">#FF6347</color>
+    <color name="Turquoise">#40E0D0</color>
+    <color name="Violet">#EE82EE</color>
+    <color name="Wheat">#F5DEB3</color>
+    <color name="White">#FFFFFF</color>
+    <color name="WhiteSmoke">#F5F5F5</color>
+    <color name="Yellow">#FFFF00</color>
+    <color name="YellowGreen">#9ACD32</color>
+    <color name="bright_foreground_holo_dark">#fff3f3f3</color>
+    <color name="buttonDefault">#9F404040</color>
+    <color name="buttonDisabled">#50FAFAFA</color>
+    <color name="buttonFocused">#9F303030</color>
+    <color name="buttonPressed">#9F00FF00</color>
+    <color name="buttonSelected">#9FFF2020</color>
+    <color name="on_viewfinder_label_background_color">#77333333</color>
+    <color name="progress_end">#2F4F4F</color>
+    <color name="progress_start">#1E90FF</color>
+    <color name="recording_time_remaining_text">#FFFF0033</color>
+    <color name="textDisabled">#50FAFAFA</color>
+    <dimen name="aeawlock_margin">35dp</dimen>
+    <dimen name="aeawlock_size">40dp</dimen>
+    <dimen name="blockingTitleSize">24sp</dimen>
+    <dimen name="buttonsLayoutMarginTop">70dp</dimen>
+    <dimen name="exposureButtonSize">30dp</dimen>
+    <dimen name="exposureCenterTitleWidth">70dp</dimen>
+    <dimen name="exposureSeekBarWidth">210dp</dimen>
+    <dimen name="exposureTimeTitleSize">14sp</dimen>
+    <dimen name="exposureTimeTitleWidth">60dp</dimen>
+    <dimen name="exposureTitleSize">16sp</dimen>
+    <dimen name="exposureTitleWidth">70dp</dimen>
+    <dimen name="gridImageSize">45dp</dimen>
+    <dimen name="gridImageSize2x">75dp</dimen>
+    <dimen name="gridModeElementSize">90dp</dimen>
+    <dimen name="gridModeImageSize">60dp</dimen>
+    <dimen name="gridModeImageSize2x">100dp</dimen>
+    <dimen name="gridModeTextLayoutSize">70dp</dimen>
+    <dimen name="gridModeTextSize">14sp</dimen>
+    <dimen name="gridModeVerticalSpacing">15dp</dimen>
+    <dimen name="gridStoreImageSize">80dp</dimen>
+    <dimen name="gridStoreImageSize2x">160dp</dimen>
+    <dimen name="gridTextLayoutHeight">70dp</dimen>
+    <dimen name="gridTextLayoutWidth">100dp</dimen>
+    <dimen name="gridTextSize">12sp</dimen>
+    <dimen name="gui_element_2size">80dp</dimen>
+    <dimen name="gui_element_size">40dp</dimen>
+    <dimen name="headerStoreImageSize">130dp</dimen>
+    <dimen name="helpImage">150dp</dimen>
+    <dimen name="hintDownArrowBottom">60sp</dimen>
+    <dimen name="hintDownArrowText">50sp</dimen>
+    <dimen name="hintUpArrowText">10sp</dimen>
+    <dimen name="hintUpArrowTop">40sp</dimen>
+    <dimen name="infoLayoutWidth">37dp</dimen>
+    <dimen name="mainButtonHeight">48dp</dimen>
+    <dimen name="mainButtonHeightSelect">55dp</dimen>
+    <dimen name="manualControlWidth">170dp</dimen>
+    <dimen name="manualControlsWidth">315dp</dimen>
+    <dimen name="multishotOptionsImageSize">60dp</dimen>
+    <dimen name="multishotOptionsTitle">20sp</dimen>
+    <dimen name="nightmodeswitcher_height">20dp</dimen>
+    <dimen name="nightmodeswitcher_textsize">14sp</dimen>
+    <dimen name="nightmodeswitcher_width">44dp</dimen>
+    <dimen name="paramsLayoutHeight">60dp</dimen>
+    <dimen name="paramsLayoutHeightInnerMode">33dp</dimen>
+    <dimen name="paramsLayoutHeightScanner">62dp</dimen>
+    <dimen name="plugin_vf_infoset_textsize">12sp</dimen>
+    <dimen name="postprocessing_imagecounter_size">100dp</dimen>
+    <dimen name="postprocessing_savebutton_size">70dp</dimen>
+    <dimen name="scanerHeight">55dp</dimen>
+    <dimen name="scanerWidth">5dp</dimen>
+    <dimen name="shutterHeight">90dp</dimen>
+    <dimen name="shutterSwitchHeight">90dp</dimen>
+    <dimen name="shutterSwitchWidth">135dp</dimen>
+    <dimen name="videoAdditionalShutterHeight">30dp</dimen>
+    <dimen name="videoShutterHeight">70dp</dimen>
+    <dimen name="videobuttons_margin">17dp</dimen>
+    <dimen name="videobuttons_size">50dp</dimen>
+    <dimen name="viewfinderViewsMarginTop">20dp</dimen>
+    <dimen name="widgetBgButtonSize">60dp</dimen>
+    <dimen name="widgetBgColorLayoutHeight">100dp</dimen>
+    <dimen name="widgetDoneButtonHeight">60dp</dimen>
+    <dimen name="widgetElementHeight">70dp</dimen>
+    <dimen name="widgetElementWidth">70dp</dimen>
+    <dimen name="widgetFullSolidHeight">108dp</dimen>
+    <dimen name="widgetFullSolidInitHeight">120dp</dimen>
+    <dimen name="widgetFullSolidInitWidth">280dp</dimen>
+    <dimen name="widgetImageSize">65dp</dimen>
+    <dimen name="widgetInitHeight">120dp</dimen>
+    <dimen name="widgetInitWidth">280dp</dimen>
+    <dimen name="widgetLauncherTextSize">15sp</dimen>
+    <dimen name="widgetLauncherTitleHeight">45dp</dimen>
+    <dimen name="widgetListElementHeight">70dp</dimen>
+    <dimen name="widgetListElementWidth">185dp</dimen>
+    <dimen name="widgetListHeight">500dp</dimen>
+    <dimen name="widgetListImageHeight">65dp</dimen>
+    <dimen name="widgetListImageWidth">65dp</dimen>
+    <dimen name="widgetListTextWidth">120dp</dimen>
+    <dimen name="widgetListWidth">300dp</dimen>
+    <dimen name="widgetMinHeight">40dp</dimen>
+    <dimen name="widgetMinWidth">40dp</dimen>
+    <dimen name="widgetShopDialogHeight">200dp</dimen>
+    <dimen name="widgetSolidElementHeight">54dp</dimen>
+    <dimen name="widgetSolidElementWidth">54dp</dimen>
+    <dimen name="widgetSolidImageSize">50dp</dimen>
+    <dimen name="widgetSolidInitHeight">50dp</dimen>
+    <dimen name="widgetSolidInitWidth">280dp</dimen>
+    <dimen name="widgetSolidSeparatorSize">1dp</dimen>
+    <dimen name="widgetTextSize">16sp</dimen>
+    <dimen name="zoompanel_width">50dp</dimen>
+    <item name="decode_failed" type="id"/>
+    <item name="decoded" type="id"/>
+    <item name="panelContent" type="id"/>
+    <item name="panelHandle" type="id"/>
+    <integer name="centerViewHeight">200</integer>
+    <integer name="centerViewWidth">200</integer>
+    <integer name="focusIndicator_cropFactor">5</integer>
+    <integer name="infoControlHeight">35</integer>
+    <integer name="infoControlWidth">35</integer>
+    <integer name="screen_type">0</integer>
+    <string name="Barcode_Date">Date: </string>
+    <string name="Barcode_Format">Format: </string>
+    <string name="Barcode_Type">Type: </string>
+    <string name="Bestshot_Help">Analyzing series of shots, Best Shot chooses the best one, increasing the chances to have a blur free image. Best shot will automatically select the best one and save it.\n\n1. Hold device still and do not move\n2. Press shutter to start capture\n3. Wait until series of images taken and processed\n4. Less blurred image will be selected and saved</string>
+    <string name="Bestshot_Help_Header">Bestshot help</string>
+    <string name="Button_Add_Calendar">Add to calendar</string>
+    <string name="Button_Add_Contact">Add contact</string>
+    <string name="Button_Cancel">Cancel</string>
+    <string name="Button_Dial">Dial number</string>
+    <string name="Button_Email">Send email</string>
+    <string name="Button_Get_Directions">Get directions</string>
+    <string name="Button_Mms">Send MMS</string>
+    <string name="Button_Ok">OK</string>
+    <string name="Button_Open_Browser">Open browser</string>
+    <string name="Button_Product_Search">Product search</string>
+    <string name="Button_Search_Book_Contents">Search contents</string>
+    <string name="Button_Share_By_Email">Share via email</string>
+    <string name="Button_Share_By_Sms">Share via SMS</string>
+    <string name="Button_Show_Map">Show map</string>
+    <string name="Button_Sms">Send SMS</string>
+    <string name="Button_Web_Search">Web search</string>
+    <string name="Clear_Barcodes_List">Clear</string>
+    <string name="Delete_Barcode">Delete</string>
+    <string name="Dro_Help">Almalence’s new technology makes cameras see like human eye! DRO (Dynamic Range Optimization) uses a technique similar to tone mapping, automatically improves the images in 100% cases and can substitute HDR in most of cases.\n\n1. Press shutter to take picture\n2. Wait until processed in a second!</string>
+    <string name="Dro_Help_Header">Dro</string>
+    <string name="Dro_level_high">High</string>
+    <string name="Dro_level_low">Low</string>
+    <string name="Dro_level_medium">Normal</string>
+    <string name="Empty_Barcodes_List">List is empty</string>
+    <string name="HiresPortrait_Capture_Front">Capture self portrait with front camera. Select desired composition.</string>
+    <string name="HiresPortrait_Capture_Rear">Capture self portrait with rear camera.</string>
+    <string name="HiresPortrait_Not_Available">Hires portrait mode not supported by your device. To use this mode you need device with front and rear cameras.</string>
+    <string name="History">History</string>
+    <string name="Msg_Default_Mms_Subject">Hi</string>
+    <string name="Msg_Intent_Failed">Sorry, the requested application could not be launched. The barcode contents may be invalid.</string>
+    <string name="MultiShot_Help">1. Hold device still and do not move\n2. Press shutter to start\n3. Wait until series of images taken and processed\n\nObject removal\nTap detected moving objects to delete\n\nSequence\nSelect which photos to use in result\n\nGroup shot\nSelect base image in thumbnails (touch image to see all thumbnails)\nSelect best faces by touching</string>
+    <string name="MultiShot_Help_Header">Smart multishot</string>
+    <string name="NightCaptureFocusPref">Preference_NightCaptureFocusPref</string>
+    <string name="NightCaptureMode">Preference_NightCaptureMode</string>
+    <string name="NightCaptureModeHiRes">Hi-Res</string>
+    <string name="NightCaptureModeHiSpeed">Hi-Speed</string>
+    <string name="NightVisionLayerShow">Preference_NightVisionLayerShow</string>
+    <string name="NightVisionOff">Night vision OFF</string>
+    <string name="NightVisionOn">Night vision ON</string>
+    <string name="Panorama_Help">Important: Do not move your hand, rotate device only!\n\n1. Hold device still\n2. Press shutter to start panorama capture\n3. Rotate device to red guides and stop when green.\n4. Move camera to next guide\n5. To finish panorama - press shutter</string>
+    <string name="Panorama_Help_Header">Panorama help</string>
+    <string name="Pref_About">A Better Camera  v3.52\n(©) by Almalence Inc</string>
+    <string name="Pref_About_Summary">Version, license, contacts</string>
+    <string name="Pref_About_Title">About</string>
+    <string name="Pref_Advanced_Preference_Summary">Settings for expert users</string>
+    <string name="Pref_Advanced_Preference_Title">Advanced</string>
+    <string name="Pref_BarcodescannerVF_Preference_Title">Barcode scanner</string>
+    <string name="Pref_BestShot_Title">Best shot</string>
+    <string name="Pref_Bestshot_Category_Title">Best Shot capture</string>
+    <string name="Pref_Bestshot_ImagesAmount_Title">Number of images</string>
+    <string name="Pref_Bestshot_Preference_Summary">Set number of images in capture</string>
+    <string name="Pref_Bestshot_Preference_Title">Best Shot mode</string>
+    <string name="Pref_Burst_Category_Title">Burst capture</string>
+    <string name="Pref_Burst_ImagesAmount_Title">Number of images in a burst</string>
+    <string name="Pref_Burst_PauseBetweenShots_Title"> Pause between shots</string>
+    <string name="Pref_Burst_Preference_Summary">Set number of images in capture</string>
+    <string name="Pref_Burst_Preference_Title">Burst mode</string>
+    <string name="Pref_Burst_Title">Burst</string>
+    <string name="Pref_CameraParameters_CopyToClipboard">Copy to clipboard</string>
+    <string name="Pref_CameraParameters_Ok">OK</string>
+    <string name="Pref_CameraParameters_Title">Camera parameters</string>
+    <string name="Pref_Common_Antibanding_Title">Antibanding</string>
+    <string name="Pref_Common_CaptureRAW_Description">RAW capture only works in Single, Burst and Expo-bracketing modes. Also, histogram can not be shown in this mode.</string>
+    <string name="Pref_Common_CaptureRAW_Summary">RAW format is DNG. Will work on limited number of devices</string>
+    <string name="Pref_Common_CaptureRAW_Title">Capture RAW</string>
+    <string name="Pref_Common_ChangePreviewProportions_Summary">Select if preview proportions are incorrect</string>
+    <string name="Pref_Common_ChangePreviewProportions_Title">Change proportions</string>
+    <string name="Pref_Common_ColorEffect_Title">Color effect</string>
+    <string name="Pref_Common_ConnectToSonyCameras_Summary">Enable interface for Sony cameras connection</string>
+    <string name="Pref_Common_ConnectToSonyCameras_Title">Connect to Sony cameras</string>
+    <string name="Pref_Common_DelayedCapture_Summary">Show self-timer/photo timelapse control</string>
+    <string name="Pref_Common_DelayedCapture_Title">Self-timer capture</string>
+    <string name="Pref_Common_DismissKeyguard_Summary">Skip non secure lock keyguard when device is turned on</string>
+    <string name="Pref_Common_DismissKeyguard_Title">Dismiss keyguard</string>
+    <string name="Pref_Common_Gallery_Summary">Do not use A Better Editor&amp;Effects as default viewer if installed</string>
+    <string name="Pref_Common_Gallery_Title">Allow to select external gallery</string>
+    <string name="Pref_Common_HWShutter_Summary">Use HW shutter to start application</string>
+    <string name="Pref_Common_HWShutter_Title">HW shutter</string>
+    <string name="Pref_Common_Header_Summary">Camera and others</string>
+    <string name="Pref_Common_Header_Title">Common settings</string>
+    <string name="Pref_Common_HeadsetTap_Summary">Use headset buttons as shutter</string>
+    <string name="Pref_Common_HeadsetTap_Title">Headset shutter</string>
+    <string name="Pref_Common_ImageSize_Summary">\nNote: some modes have individual setting for image size</string>
+    <string name="Pref_Common_ImageSize_Title">Image size</string>
+    <string name="Pref_Common_JPEGQuality_Title">Jpeg quality</string>
+    <string name="Pref_Common_MediaRescan_Summary">Helps if images do not appear in gallery.</string>
+    <string name="Pref_Common_MediaRescan_Title">Media rescan on exit</string>
+    <string name="Pref_Common_Preference_Summary">Camera and others</string>
+    <string name="Pref_Common_Preference_Title">Camera settings</string>
+    <string name="Pref_Common_RealExposureTimeOnPreview_Summary">In case of manual exposure and long time image on viewfinder and result will differ to avoid slow preview update. Enabling this option you will have real picture on viewfinder, but low fps.</string>
+    <string name="Pref_Common_RealExposureTimeOnPreview_Title">Real exposure time on preview</string>
+    <string name="Pref_Common_ShotOnRelease_Summary">Enable shoot on release.</string>
+    <string name="Pref_Common_ShotOnRelease_Title">Release shutter to shoot</string>
+    <string name="Pref_Common_ShotOnTap_Summary">Focus and shoot by tap</string>
+    <string name="Pref_Common_ShotOnTap_Title">Touch to shoot</string>
+    <string name="Pref_Common_Shutter_Summary">Not guaranteed to work on all models</string>
+    <string name="Pref_Common_Shutter_Title">Silent operation</string>
+    <string name="Pref_Common_UseCamera2_Summary">Camera 2 - Experimental mode. Will work on limited number of devices starting Android 5 and full Camera2 API support</string>
+    <string name="Pref_Common_UseCamera2_Title">Force use Сamera1 interface</string>
+    <string name="Pref_Common_UseFrontCamera_Summary">Use front camera</string>
+    <string name="Pref_Common_UseFrontCamera_Title">Front camera</string>
+    <string name="Pref_Common_VolumeButton_Title">Volume button</string>
+    <string name="Pref_Comon_SmartMultishot_And_Night_ImageSize_Title">Image size (Multishot, Night)</string>
+    <string name="Pref_Comon_SmartMultishot_And_Super_ImageSize_Title">Image size Multishot and Night</string>
+    <string name="Pref_DroInputFrame_Save">Save original frame</string>
+    <string name="Pref_Dro_Mode_Title">DRO brightness</string>
+    <string name="Pref_Dro_Preference_Title">DRO</string>
+    <string name="Pref_ExpoBracketing_Capture_Summary">Change if you get all the shots with the same exposure</string>
+    <string name="Pref_ExpoBracketing_Capture_Title">Exposure change mode</string>
+    <string name="Pref_ExpoBracketing_Category_Title">Expobracketing capture</string>
+    <string name="Pref_ExpoBracketing_EvRange_Title">Ev range</string>
+    <string name="Pref_ExpoBracketing_Expo">Maximum possible</string>
+    <string name="Pref_ExpoBracketing_ImageSize_Title">Image size</string>
+    <string name="Pref_ExpoBracketing_Luma_Summary">Try this if the exposure is not changed</string>
+    <string name="Pref_ExpoBracketing_Luma_Title">Alternative expo-control</string>
+    <string name="Pref_ExpoBracketing_None">None</string>
+    <string name="Pref_ExpoBracketing_Preference_Summary">Expo bracketing</string>
+    <string name="Pref_ExpoBracketing_Preference_Title">Capture</string>
+    <string name="Pref_ExpoBracketing_Refocus_Summary">Some devices reset focus after capture. Check if you get out-of-focus shots</string>
+    <string name="Pref_ExpoBracketing_Refocus_Title">Re-focus on each shot</string>
+    <string name="Pref_Expobracketing_Title">Expo-bracketing</string>
+    <string name="Pref_Export_AdditionalRotatoin_Title">Additional rotation</string>
+    <string name="Pref_Export_ExifTagOrientation_Summary">Enable orientation tag</string>
+    <string name="Pref_Export_ExifTagOrientation_Title">Image orientation</string>
+    <string name="Pref_Export_ExportFormat_Title">Export name format</string>
+    <string name="Pref_Export_ExportNameSeparator_Summary">Separator for data and time, exmpl: 2015-10-30_22:15:45</string>
+    <string name="Pref_Export_ExportNameSeparator_Title">Photo name pattern separator</string>
+    <string name="Pref_Export_ExportName_Title">Photo name pattern</string>
+    <string name="Pref_Export_Postfix_Title">Photo name postfix</string>
+    <string name="Pref_Export_Preference_Summary">Export name</string>
+    <string name="Pref_Export_Preference_Title">Export settings</string>
+    <string name="Pref_Export_Prefix_Title">Photo name prefix</string>
+    <string name="Pref_Export_SaveTo_Title">Select location to store images</string>
+    <string name="Pref_Export_SortByData_Summary">Save result images to folder of current date</string>
+    <string name="Pref_Export_SortByData_Title">Use dated folders</string>
+    <string name="Pref_Export_UseGeoTagging_Summary">Add location tags. Turn on "GPS location" system setting to get precise geo-tagging</string>
+    <string name="Pref_Export_UseGeoTagging_Title">Geo tagging</string>
+    <string name="Pref_FastSwitchShutter">Fast video switcher</string>
+    <string name="Pref_FastSwitchShutter_Summary">Shutter with fast switching to video mode</string>
+    <string name="Pref_Focus_Preference_Summary">Focus</string>
+    <string name="Pref_Focus_Preference_Title">Focus</string>
+    <string name="Pref_General_Preference_Summary">Camera and shooting</string>
+    <string name="Pref_General_Preference_Title">General Settings</string>
+    <string name="Pref_Grid_Bisection1">Bisection (topleft - bottomright)</string>
+    <string name="Pref_Grid_Bisection2">Bisection (topright - bottomleft)</string>
+    <string name="Pref_Grid_Golden1">Golden ratio (top left)</string>
+    <string name="Pref_Grid_Golden2">Golden ratio (bottom left)</string>
+    <string name="Pref_Grid_Golden3">Golden ratio (bottom right)</string>
+    <string name="Pref_Grid_Golden4">Golden ratio (top right)</string>
+    <string name="Pref_Grid_None">None</string>
+    <string name="Pref_Grid_Preference_Title">Grid</string>
+    <string name="Pref_Grid_Thirds">Thirds</string>
+    <string name="Pref_Grid_Types_Title">Grid type</string>
+    <string name="Pref_GyroTypeVF">Use hardware gyroscope</string>
+    <string name="Pref_HDR_AutoAdjustPref_Summary">Adjust tone mapping parameters after taking a photo</string>
+    <string name="Pref_HDR_AutoAdjustPref_Title">Edit after taking</string>
+    <string name="Pref_HDR_BnW">Black and White</string>
+    <string name="Pref_HDR_Bright">Bright</string>
+    <string name="Pref_HDR_Category_Title">HDR processing</string>
+    <string name="Pref_HDR_ColorViv_Title">Color vividness</string>
+    <string name="Pref_HDR_Exposure_Title">Exposure</string>
+    <string name="Pref_HDR_Hard">Hard</string>
+    <string name="Pref_HDR_High">High</string>
+    <string name="Pref_HDR_LocalContrast_Summary">Control contrast of HDR output</string>
+    <string name="Pref_HDR_LocalContrast_Title">Local contrast</string>
+    <string name="Pref_HDR_Low">Low</string>
+    <string name="Pref_HDR_Microcontrast_Summary">Micro-contrast of fine details</string>
+    <string name="Pref_HDR_Microcontrast_Title">Micro contrast</string>
+    <string name="Pref_HDR_Minor">Minor</string>
+    <string name="Pref_HDR_NoiseReduction_Title">Noise reduction</string>
+    <string name="Pref_HDR_None">None</string>
+    <string name="Pref_HDR_Normal">Normal</string>
+    <string name="Pref_HDR_Preference_Summary">HDR</string>
+    <string name="Pref_HDR_Preference_Title">Processing</string>
+    <string name="Pref_HDR_Pure">Pure</string>
+    <string name="Pref_HDR_Saturated">Saturated</string>
+    <string name="Pref_HDR_SaveInputPref_None">Do not save</string>
+    <string name="Pref_HDR_SaveInputPref_Normal">Only standard exposure image</string>
+    <string name="Pref_HDR_SaveInputPref_Summary">Keep exposure-bracketed images</string>
+    <string name="Pref_HDR_SaveInputPref_Title">Save original frames</string>
+    <string name="Pref_HDR_Standard">Standard</string>
+    <string name="Pref_HDR_Title">HDR</string>
+    <string name="Pref_Help_Preference_Summary">Short help and description</string>
+    <string name="Pref_Help_Preference_Title">Help</string>
+    <string name="Pref_HiresPortrait_Category_Title">Hires portrait capture</string>
+    <string name="Pref_HiresPortrait_Preference_Title">Capture</string>
+    <string name="Pref_HistogramVF_Luminance">Luminance</string>
+    <string name="Pref_HistogramVF_None">None</string>
+    <string name="Pref_HistogramVF_Preference_Title">Histogram</string>
+    <string name="Pref_HistogramVF_RGBHisto_Summary">Activate RGB histogram</string>
+    <string name="Pref_HistogramVF_RGBHisto_Title">Histogram type</string>
+    <string name="Pref_Inactive_Preference_Summary">Other preferences</string>
+    <string name="Pref_Inactive_Preference_Title">Inactive Modes</string>
+    <string name="Pref_Inactive_Summary">Other modes settings</string>
+    <string name="Pref_Inactive_Title">Inactive options</string>
+    <string name="Pref_Infoset_AvailablePictureCount_Summary">Show number of images that can be shot with current image size setting</string>
+    <string name="Pref_Infoset_AvailablePictureCount_Title">Number of images</string>
+    <string name="Pref_Infoset_Preference_Summary">status indicators</string>
+    <string name="Pref_Infoset_Preference_Title">Info to display</string>
+    <string name="Pref_Infoset_UseBatteryMonitor_Summary">Turn on if you want to see the battery status on the screen</string>
+    <string name="Pref_Infoset_UseBatteryMonitor_Title">Battery status</string>
+    <string name="Pref_Infoset_UseEVMonitor_Summary">Show current camera exposure compensation</string>
+    <string name="Pref_Infoset_UseEVMonitor_Title">Exposure compensation</string>
+    <string name="Pref_Infoset_UseFlashMonitor_Summary">Show current camera flash mode</string>
+    <string name="Pref_Infoset_UseFlashMonitor_Title">Flash mode</string>
+    <string name="Pref_Infoset_UseFocusMonitor_Summary">Show current camera focus mode</string>
+    <string name="Pref_Infoset_UseFocusMonitor_Title">Focus mode</string>
+    <string name="Pref_Infoset_UseGeoTagging_Summary">Show GPS indicator on the screen</string>
+    <string name="Pref_Infoset_UseGeoTagging_Title">GPS status</string>
+    <string name="Pref_Infoset_UseISOMonitor_Summary">Show current camera iso value</string>
+    <string name="Pref_Infoset_UseISOMonitor_Title">ISO</string>
+    <string name="Pref_Infoset_UseSceneMonitor_Summary">Show current camera scene mode</string>
+    <string name="Pref_Infoset_UseSceneMonitor_Title">Scene mode</string>
+    <string name="Pref_Infoset_UseWBMonitor_Summary">Show current camera white balance</string>
+    <string name="Pref_Infoset_UseWBMonitor_Title">White balance</string>
+    <string name="Pref_Infoset_useCurrentSensitivityMonitor_Summary">Show current camera ISO</string>
+    <string name="Pref_Infoset_useCurrentSensitivityMonitor_Title">ISO value</string>
+    <string name="Pref_Infoset_useExposureTimeMonitor_Summary">Show current camera shutter speed</string>
+    <string name="Pref_Infoset_useExposureTimeMonitor_Title">Shutter speed</string>
+    <string name="Pref_KeepScreenOn">Keep screen on</string>
+    <string name="Pref_KeepScreenOn_Summary">Avoid sleep mode while camera active</string>
+    <string name="Pref_MaxScreenBrightness">Max screen brightness</string>
+    <string name="Pref_MaxScreenBrightness_Summary">Force the screen to maximum brightness</string>
+    <string name="Pref_Mode_Preference_Title">Modes preferences</string>
+    <string name="Pref_Modes_Preference_Summary">HDR, Night, Panorama ...</string>
+    <string name="Pref_Modes_Preference_Title">Shooting modes settings</string>
+    <string name="Pref_MultiShot_Preference_Summary">Process multishot</string>
+    <string name="Pref_MultiShot_Preference_Title">Smart multishot processing</string>
+    <string name="Pref_MultiShot_Save">Save original frames</string>
+    <string name="Pref_MultiShot_Title">Smart multishot</string>
+    <string name="Pref_NightCapture_Auto">Auto focus</string>
+    <string name="Pref_NightCapture_Fixed">Fixed hyperfocal</string>
+    <string name="Pref_NightCapture_FocusModeAlert_Msg">Device camera doesn\'t support \'Fixed Hyperfocal\' focus mode, will use \'Auto focus\' mode</string>
+    <string name="Pref_NightCapture_FocusModeAlert_Title">\'Auto focus\' mode forced</string>
+    <string name="Pref_NightCapture_FocusMode_Summary">Select suitable focus mode</string>
+    <string name="Pref_NightCapture_FocusMode_Title">Focus mode</string>
+    <string name="Pref_NightCapture_ImageSize_Title">Image size (Night hi-speed mode)</string>
+    <string name="Pref_NightCapture_NightVision_Summary">Uncheck this to see original viewfinder.</string>
+    <string name="Pref_NightCapture_NightVision_Title">Night-vision viewfinder</string>
+    <string name="Pref_NightCapture_None">None</string>
+    <string name="Pref_NightCapture_Preference_Summary">Low light capturing</string>
+    <string name="Pref_NightCapture_Preference_Title">Night capture</string>
+    <string name="Pref_NightCapture_Refocus">Re-focus on each shot</string>
+    <string name="Pref_Night_Category_Title">Night processing</string>
+    <string name="Pref_Night_ColorsSaturated_Summary">Keep colors saturated</string>
+    <string name="Pref_Night_ColorsSaturated_Title">Keep colors saturated</string>
+    <string name="Pref_Night_DeGhosting_Title">De-ghosting</string>
+    <string name="Pref_Night_Hard">Hard</string>
+    <string name="Pref_Night_Minor">Minor</string>
+    <string name="Pref_Night_NoiseReduction_Title">Noise reduction</string>
+    <string name="Pref_Night_None">None</string>
+    <string name="Pref_Night_Preference_Summary">Night</string>
+    <string name="Pref_Night_Preference_Title">Processing</string>
+    <string name="Pref_Night_Title">Night</string>
+    <string name="Pref_Only_Advanced">Only advanced preferences available.</string>
+    <string name="Pref_PanoramaAugmented_Title">Panorama</string>
+    <string name="Pref_PreShotProcessing_Preference_Summary">Back In Time</string>
+    <string name="Pref_PreShotProcessing_Preference_Title">Pre-shot processing</string>
+    <string name="Pref_PreShot_10shot">10 shots per second</string>
+    <string name="Pref_PreShot_1shot">1 shots per second</string>
+    <string name="Pref_PreShot_2shot">2 shots per second</string>
+    <string name="Pref_PreShot_3shot">3 shots per second</string>
+    <string name="Pref_PreShot_4shot">4 shots per second</string>
+    <string name="Pref_PreShot_5shot">5 shots per second</string>
+    <string name="Pref_PreShot_Autostart_Summary">Start capturing on camera launch</string>
+    <string name="Pref_PreShot_Autostart_Title">Autostart</string>
+    <string name="Pref_PreShot_High">High res (still)</string>
+    <string name="Pref_PreShot_ImageSize_Title">Image size</string>
+    <string name="Pref_PreShot_Low">High speed (preview)</string>
+    <string name="Pref_PreShot_Mode_Summary">Image capture mode</string>
+    <string name="Pref_PreShot_Mode_Title">Mode</string>
+    <string name="Pref_PreShot_None">None</string>
+    <string name="Pref_PreShot_Preference_Title">Pre-shot capture</string>
+    <string name="Pref_PreShot_RefocusOnEachShot_Summary">Some devices reset focus after capture. Check if you get out-of-focus shots.</string>
+    <string name="Pref_PreShot_RefocusOnEachShot_Title">Re-focus on each shot</string>
+    <string name="Pref_PreShot_fps_Summary">Amount of images to take per second</string>
+    <string name="Pref_PreShot_fps_Title">Shots per second (hi-speed)</string>
+    <string name="Pref_PreShot_pauseBetweenShots_Summary">Pause after picture taken - for re-focus purposes.</string>
+    <string name="Pref_PreShot_pauseBetweenShots_Title">Pause between shots (hi-res)</string>
+    <string name="Pref_PreShot_preshot_Summary">Keep the frames taken in specified period before the wrap.</string>
+    <string name="Pref_PreShot_preshot_Title">Seconds before wrap...</string>
+    <string name="Pref_Preshot_Title">Pre-shot</string>
+    <string name="Pref_Processing_Preference_Summary">Processing name</string>
+    <string name="Pref_Processing_Preference_Title">Processing</string>
+    <string name="Pref_SaveConfiguration_DelayedCapture_Title">Self-timer</string>
+    <string name="Pref_SaveConfiguration_ExpoCompensation_Title">Exposure compensation</string>
+    <string name="Pref_SaveConfiguration_FlashMode_Title">Flash mode</string>
+    <string name="Pref_SaveConfiguration_FocusMode_Title">Focus mode</string>
+    <string name="Pref_SaveConfiguration_FrontRear_Title">Selected camera</string>
+    <string name="Pref_SaveConfiguration_ISOMode_Title">ISO mode</string>
+    <string name="Pref_SaveConfiguration_ImageSize_Title">Image size</string>
+    <string name="Pref_SaveConfiguration_SceneMode_Title">Scene mode</string>
+    <string name="Pref_SaveConfiguration_ShootingMode_Title">Shooting mode</string>
+    <string name="Pref_SaveConfiguration_Summary">Select which settings to save between launches</string>
+    <string name="Pref_SaveConfiguration_TimelapseCapture_Title">Timelapse</string>
+    <string name="Pref_SaveConfiguration_Title">Save configuration</string>
+    <string name="Pref_SaveConfiguration_WBMode_Title">White balance mode</string>
+    <string name="Pref_Saving_Preference_Summary">Filenames, formats, geotagging, exif and other parameters</string>
+    <string name="Pref_Saving_Preference_Title">Saving and sharing</string>
+    <string name="Pref_Saving_Timestamp_Preference_Title">Timestamp</string>
+    <string name="Pref_SelfTimerCapture_Blinking_Summary">Flash blinks every second of countdown</string>
+    <string name="Pref_SelfTimerCapture_Blinking_Title">Blink at countdown</string>
+    <string name="Pref_SelfTimerCapture_Sound_Summary">Beep every second of countdown</string>
+    <string name="Pref_SelfTimerCapture_Sound_Title">Sound countdown</string>
+    <string name="Pref_SelfTimer_Category_Title">Self-timer capture</string>
+    <string name="Pref_SelfTimer_DelayInterval_Title">Self timer value</string>
+    <string name="Pref_SelfTimer_ImagesAmount_Title">Number of shots</string>
+    <string name="Pref_SelfTimer_Preference_Summary">Self Timer</string>
+    <string name="Pref_SelfTimer_Preference_Title">Capture</string>
+    <string name="Pref_SelfTimer_Title">Self-timer</string>
+    <string name="Pref_Shooting_Inactive_Summary">Other modes settings</string>
+    <string name="Pref_Shooting_Inactive_Title">Inactive Shooting Modes</string>
+    <string name="Pref_ShowBarcodescannerVF">Show barcode scanner</string>
+    <string name="Pref_ShowExposureMetering">Show exposure metering control</string>
+    <string name="Pref_ShowGyroVF">Show level</string>
+    <string name="Pref_ShowHelp_Title">Show help</string>
+    <string name="Pref_ShowHistogramVF">Show histogram</string>
+    <string name="Pref_ShowZoom">Show zoom control</string>
+    <string name="Pref_Single_Title">Single</string>
+    <string name="Pref_Super_BrightnessEnhancementValue">Current value is $1</string>
+    <string name="Pref_Super_SummaryUpscale">up to $1</string>
+    <string name="Pref_Super_Title">Super</string>
+    <string name="Pref_Super_TitleBrightnessEnhancement">Brightness enhancement</string>
+    <string name="Pref_Super_TitleUpscale">Large output</string>
+    <string name="Pref_SwipingEnabled">Screens swiping</string>
+    <string name="Pref_SwipingEnabled_Summary">Activate screens swiping - changing info control on main screen</string>
+    <string name="Pref_TitleGyroVF">Level</string>
+    <string name="Pref_Unlock_Preference_Summary">Unlock premium features</string>
+    <string name="Pref_Unlock_Preference_Title">Unlock/Help</string>
+    <string name="Pref_Upgrde_All_Preference_Summary">Activate all features and modes, even future version additions</string>
+    <string name="Pref_Upgrde_All_Preference_Title">Unlock all forever</string>
+    <string name="Pref_Upgrde_HDR_Preference_Summary">Take great-looking high-dynamic range images and videos</string>
+    <string name="Pref_Upgrde_HDR_Preference_Title">HDR + HDR Video</string>
+    <string name="Pref_Upgrde_Moving_Preference_Summary">Remove unwanted objects, combine movement into single photo, select best faces on your photo</string>
+    <string name="Pref_Upgrde_Moving_Preference_Title">Smart Multishot</string>
+    <string name="Pref_Upgrde_Panorama_Preference_Summary">Shoot great panoramas with help of augmented-reality</string>
+    <string name="Pref_Upgrde_Panorama_Preference_Title">High-resolution panorama</string>
+    <string name="Pref_Upgrde_PromoCode_DoneText">Done!</string>
+    <string name="Pref_Upgrde_PromoCode_IncorrectText">Incorrect promo code</string>
+    <string name="Pref_Upgrde_PromoCode_Preference_Title">Promo code</string>
+    <string name="Pref_Upgrde_PromoCode_Text">Enter promo code</string>
+    <string name="Pref_Upgrde_SubscriptionMonth_Preference_Title">Month subscription</string>
+    <string name="Pref_Upgrde_SubscriptionYear_Preference_Title">Subscription \n3 months free!</string>
+    <string name="Pref_Upgrde_SubscriptionYear_Year">year</string>
+    <string name="Pref_Upgrde_SuperNotSupported">not supported</string>
+    <string name="Pref_Upgrde_Super_Preference_Title">Super</string>
+    <string name="Pref_VFCommon_Preference_Title">Common VF settings</string>
+    <string name="Pref_VF_AEAWLock_Preference_Title">Auto exposure\\white balance lock</string>
+    <string name="Pref_VF_Preference_Summary">What to display</string>
+    <string name="Pref_VF_Preference_Title">Viewfinder settings</string>
+    <string name="Pref_VF_ShowAEAFLock_Summary">May not work on some devices</string>
+    <string name="Pref_VF_ShowAEAWLock_Title">Show AE and WB lock controls</string>
+    <string name="Pref_Video_Category_Title">Video</string>
+    <string name="Pref_Video_DRO_OFF">HDR Off</string>
+    <string name="Pref_Video_DRO_ON">HDR On</string>
+    <string name="Pref_Video_ImageSize_Title">Video resolution</string>
+    <string name="Pref_Video_MaxQuaity_Summary">Max quality, available on device.</string>
+    <string name="Pref_Video_MaxQuaity_Title">Max quality</string>
+    <string name="Pref_Video_Mute_Summary">Disable buttons sound. Some devices record it in result video.</string>
+    <string name="Pref_Video_Mute_Title">Mute buttons</string>
+    <string name="Pref_Video_None">None</string>
+    <string name="Pref_Video_Preference_Summary">video capturing</string>
+    <string name="Pref_Video_Preference_Title">Capture</string>
+    <string name="Pref_Video_ShowLandscapeNotification_Summary">Enables notification to hold device in landscape orientation</string>
+    <string name="Pref_Video_ShowLandscapeNotification_Title">Show notification</string>
+    <string name="Pref_Video_Stabilization_Title">Video stabilization</string>
+    <string name="Pref_Video_StartStandard_Summary">Use standard camera for video recording</string>
+    <string name="Pref_Video_StartStandard_Title">Standard video camera</string>
+    <string name="Pref_Video_Title">Video</string>
+    <string name="Pref_WhowHelp_Summary">Show help when mode started (Panorama, Smart multishot)</string>
+    <string name="Pref_Zoom_Preference_Summary">Zoom</string>
+    <string name="Pref_Zoom_Preference_Title">Zoom</string>
+    <string name="PreferenceExpoSlow_Summary">Check if device needs more time for exposure change</string>
+    <string name="PreferenceExpoSlow_Title">Long pause</string>
+    <string name="Preference_AELockValue">Preference_AELockValue</string>
+    <string name="Preference_AWBLockValue">Preference_AWBLockValue</string>
+    <string name="Preference_AdditionalRotationValue">Preference_AdditionalRotationValue</string>
+    <string name="Preference_AntibandingValue">Preference_AntibandingListValue</string>
+    <string name="Preference_BestShotImagesAmount">BestshotImagesAmount</string>
+    <string name="Preference_BurstImagesAmount">burstImagesAmount</string>
+    <string name="Preference_BurstPauseBetweenShots">burstPauseBetweenShots</string>
+    <string name="Preference_CameraModeValue">Preference_CameraModeValue</string>
+    <string name="Preference_CaptureRAWValue">captureRAW</string>
+    <string name="Preference_ColorTemperatureValue">Preference_ColorTemperatureValue</string>
+    <string name="Preference_ConnectToSonyCameras">Preference_connectToSonyCameras</string>
+    <string name="Preference_DefaultInfoSetValue">Preference_DefaultInfoSetValue</string>
+    <string name="Preference_DefaultModeName">defaultModeName</string>
+    <string name="Preference_DelayedCaptureIntervalValue">Preference_DelayedCaptureIntervalValue</string>
+    <string name="Preference_DelayedCaptureValue">Preference_DelayedCaptureValue</string>
+    <string name="Preference_DelayedFlashValue">Preference_DelayedFlashValue</string>
+    <string name="Preference_DelayedSoundValue">Preference_DelayedSoundValue</string>
+    <string name="Preference_DroSaveInputPref">Preference_DroSaveInputPref</string>
+    <string name="Preference_EnableExifTagOrientationValue">Preference_EnableExifTagOrientationValue</string>
+    <string name="Preference_EvCompensationValue">Preference_EvCompensationValue</string>
+    <string name="Preference_ExpoBracketingPref">evPrefExpoBracketing</string>
+    <string name="Preference_ExpoBracketingPreviewModePref">expo_previewMode</string>
+    <string name="Preference_ExpoBracketingRefocusPref">refocusPrefExpoBracketing</string>
+    <string name="Preference_ExpoBracketingUseLumaPref">lumaPrefExpoBracketing</string>
+    <string name="Preference_ExportNameSeparatorValue">Preference_ExportNameSeparator</string>
+    <string name="Preference_ExportNameValue">Preference_ExportName</string>
+    <string name="Preference_ExposureTimeModeValue">Preference_ExposureTimeModeValue</string>
+    <string name="Preference_ExposureTimeValue">Preference_ExposureTimeValue</string>
+    <string name="Preference_FlashModeValue">Preference_FlashModeValue</string>
+    <string name="Preference_FocusDistanceModeValue">Preference_FocusDistanceModeValue</string>
+    <string name="Preference_FocusDistanceValue">Preference_FocusDistanceValue</string>
+    <string name="Preference_FrontColorEffectValue">Preference_FrontColorEffectValue</string>
+    <string name="Preference_FrontFocusModeValue">Preference_FrontFocusModeValue</string>
+    <string name="Preference_FrontFocusModeVideoValue">Preference_FrontFocusModeVideoValue</string>
+    <string name="Preference_ISOValue">Preference_ISOValue</string>
+    <string name="Preference_ImageSizeFrontValue">imageSizePrefCommonFront</string>
+    <string name="Preference_ImageSizePrefPanoramaBackValue">imageSizePrefPanoramaBack</string>
+    <string name="Preference_ImageSizePrefPanoramaFrontValue">imageSizePrefPanoramaFront</string>
+    <string name="Preference_ImageSizePrefSmartMultishotBackValue">imageSizePrefSmartMultishotBack</string>
+    <string name="Preference_ImageSizePrefSmartMultishotFrontValue">imageSizePrefSmartMultishotFront</string>
+    <string name="Preference_ImageSizePrefSmartMultishotSonyRemoteValue">Preference_ImageSizePrefSmartMultishotSonyRemoteValue</string>
+    <string name="Preference_ImageSizePrefVideoBackValue">imageSizePrefVideoBack_v2</string>
+    <string name="Preference_ImageSizePrefVideoFrontValue">imageSizePrefVideoFront_v2</string>
+    <string name="Preference_ImageSizeRearValue">imageSizePrefCommonBack</string>
+    <string name="Preference_ImageSizeSonyRemoteValue">Preference_ImageSizeSonyRemoteValue</string>
+    <string name="Preference_JPEGQualityCommonValue">commonJPEGQuality</string>
+    <string name="Preference_KeepScreenOnValue">Preference_KeepScreenOnValue</string>
+    <string name="Preference_LastPhotoModeValue">Preference_LastPhotoModeValue</string>
+    <string name="Preference_MeteringModeValue">Preference_MeteringModeValue</string>
+    <string name="Preference_PanoramaAELock">pref_plugin_capture_panoramaaugmented_aelock</string>
+    <string name="Preference_PanoramaFrameOverlap">pref_plugin_capture_panoramaaugmented_frameoverlap</string>
+    <string name="Preference_PanoramaMemory">pref_plugin_capture_panoramaaugmented_memory</string>
+    <string name="Preference_PhotoTimeLapseCaptureInterval">Preference_PhotoTimeLapseCaptureInterval</string>
+    <string name="Preference_PhotoTimeLapseCaptureIntervalMeasurment">Preference_PhotoTimeLapseCaptureIntervalMeasurment</string>
+    <string name="Preference_PhotoTimeLapseCount">"Preference_PhotoTimeLapseCount"</string>
+    <string name="Preference_PhotoTimeLapseIsRunning">"Preference_PhotoTimeLapseIsRunning"</string>
+    <string name="Preference_PhotoTimeLapseSWChecked">Preference_PhotoTimeLapseSWChecked</string>
+    <string name="Preference_PreShotFPSPref">objectRemovalPauseBetweenShots</string>
+    <string name="Preference_PreShotIntervalPref">objectRemovalPauseBetweenShots</string>
+    <string name="Preference_PreShotModePref">objectRemovalPauseBetweenShots</string>
+    <string name="Preference_PreShotPauseBetweenShotsPref">objectRemovalPauseBetweenShots</string>
+    <string name="Preference_QuickControlButton1">quickControlButton1</string>
+    <string name="Preference_QuickControlButton2">quickControlButton2</string>
+    <string name="Preference_QuickControlButton3">quickControlButton3</string>
+    <string name="Preference_QuickControlButton4">quickControlButton4</string>
+    <string name="Preference_RealExposureTimeOnPreviewValue">Preference_RealExposureTimeOnPreviewValue</string>
+    <string name="Preference_RearColorEffectValue">Preference_RearColorEffectValue</string>
+    <string name="Preference_RearFocusModeValue">Preference_RearFocusModeValue</string>
+    <string name="Preference_RearFocusModeVideoValue">Preference_RearFocusModeVideoValue</string>
+    <string name="Preference_SWCheckedValue">Preference_SWChekedValue</string>
+    <string name="Preference_SavePathLollipopValue">Preference_SavePathLollipopValue</string>
+    <string name="Preference_SavePathPostfixValue">Preference_SavePathPostfixValue</string>
+    <string name="Preference_SavePathPrefixValue">Preference_SavePathPrefixValue</string>
+    <string name="Preference_SavePathValue">Preference_SavePathValue</string>
+    <string name="Preference_SaveToValue">Preference_SaveToValue</string>
+    <string name="Preference_SceneModeValue">Preference_SceneModeValue</string>
+    <string name="Preference_ShotOnReleaseValue">Preference_ShotOnReleaseListValue</string>
+    <string name="Preference_ShotOnTapValue">Preference_ShotOnTapListValue</string>
+    <string name="Preference_ShowDelayedCaptureValue">Preference_ShowDelayedCaptureValue</string>
+    <string name="Preference_ShowFastSwitchShutterValue">Preference_ShowFastSwitchShutterValue</string>
+    <string name="Preference_ShutterCommonValue">Preference_ShutterCommonValue</string>
+    <string name="Preference_SortByDataValue">Preference_SortByDataValue</string>
+    <string name="Preference_SwipingEnabledChecked">Preference_SwipingEnabledChecked</string>
+    <string name="Preference_TimestampAbbreviationValue">Preference_TimestampAbbreviationValue</string>
+    <string name="Preference_TimestampColorValue">Preference_TimestampColorValue</string>
+    <string name="Preference_TimestampCustomTextValue">Preference_TimestampCustomTextValue</string>
+    <string name="Preference_TimestampDateValue">Preference_TimestampDateValue</string>
+    <string name="Preference_TimestampFontSizeValue">Preference_TimestampFontSizeValue</string>
+    <string name="Preference_TimestampGeoValue">Preference_TimestampGeoValue</string>
+    <string name="Preference_TimestampSeparatorValue">Preference_TimestampSeparatorValue</string>
+    <string name="Preference_TimestampTimeValue">Preference_TimestampTimeValue</string>
+    <string name="Preference_UseCamera1Key">useCamera1Pref</string>
+    <string name="Preference_UseCamera2Key">useCamera2Pref</string>
+    <string name="Preference_UseFrontCameraValue">useFrontCamera</string>
+    <string name="Preference_UseGeotaggingValue">useGeoTaggingPrefExport</string>
+    <string name="Preference_VolumeButtonValue">volumeButtonPrefCommon</string>
+    <string name="Preference_WBModeValue">Preference_WBModeValue</string>
+    <string name="Preference_allowExternalGalleries">allowExternalGalleries</string>
+    <string name="Res_Bestshot_10">10 images</string>
+    <string name="Res_Bestshot_3">3 images</string>
+    <string name="Res_Bestshot_5">5 images</string>
+    <string name="Res_Bestshot_Images_Text"> images</string>
+    <string name="Res_Burst_10">10 images</string>
+    <string name="Res_Burst_15">15 images</string>
+    <string name="Res_Burst_20">20 images</string>
+    <string name="Res_Burst_3">3 images</string>
+    <string name="Res_Burst_5">5 images</string>
+    <string name="Res_Burst_Fast_Text">as fast as possible</string>
+    <string name="Res_Burst_Images_Text"> images</string>
+    <string name="Res_Export_SaveAs_Text">Save as</string>
+    <string name="Res_Export_SaveJPEG_Text">Save format JPEG</string>
+    <string name="Res_Export_SavePNG_Text">Save format PNG</string>
+    <string name="Res_HDR_DecodingProgress_Text">Decoding…</string>
+    <string name="Res_Night_DecodingProgress_Text">Decoding…</string>
+    <string name="Res_SelfTimerCapture_Capture_1">1 image</string>
+    <string name="Res_SelfTimerCapture_Capture_2">2 images</string>
+    <string name="Res_SelfTimerCapture_Capture_3">3 images</string>
+    <string name="Result_Calendar">Found calendar event</string>
+    <string name="Result_Email_Address">Found email address</string>
+    <string name="Result_Geo">Found geographic coordinates</string>
+    <string name="Result_Product">Found product</string>
+    <string name="Result_Sms">Found SMS address</string>
+    <string name="Result_Tel">Found phone number</string>
+    <string name="Result_Text">Found plain text</string>
+    <string name="Result_Uri">Found URL</string>
+    <string name="Super_Help">Important: image resolution will be always set to maximum.\n\nSuperSensor is our all-in-one solution to improve camera with software.\nIt is a non-material way to put a better camera in your device!\n\n- Superior low-light sensitivity\n- 2x resolution increase\n\nLow Light\n- Radical noise reduction\n- Resolution improvement\n- Shadows recovery\n\nHDR\n- Due to DR enhancement, high dynamic range scenes are handled well by Super Sensor.</string>
+    <string name="Super_Help_Header">Super mode help</string>
+    <string name="aboutFbLink">https://www.facebook.com/abettercam</string>
+    <string name="aboutGplusLink">Follow us on: </string>
+    <string name="aboutSupportLink">support@abc.almalence.com</string>
+    <string name="adjustments_contrast">Contrast</string>
+    <string name="adjustments_exposure">Exposure</string>
+    <string name="adjustments_microcontrast">Micro contrast</string>
+    <string name="adjustments_preset_artistic">Artistic</string>
+    <string name="adjustments_preset_bnw">Black &amp; White</string>
+    <string name="adjustments_preset_candy">Details</string>
+    <string name="adjustments_preset_custom">Custom</string>
+    <string name="adjustments_preset_natural">Natural</string>
+    <string name="adjustments_preset_neon">Neon</string>
+    <string name="adjustments_preset_vanilla">Vanilla</string>
+    <string name="adjustments_preset_xerox">Xerox</string>
+    <string name="adjustments_presets_prompt">Choose an adjustments preset</string>
+    <string name="adjustments_trashDialog_content">This image will be lost</string>
+    <string name="adjustments_trashDialog_negative">No</string>
+    <string name="adjustments_trashDialog_positive">Yes</string>
+    <string name="adjustments_trashDialog_title">Delete this photo?</string>
+    <string name="adjustments_vividness">Color vividness</string>
+    <string name="aelockAlways">Always lock AE/AWB</string>
+    <string name="aelockHorizontal">AE/AWB lock only for horizontal panorama</string>
+    <string name="aelockNo">No AE/AWB lock</string>
+    <string name="almalence_gui_selected">selected</string>
+    <string name="already_unlocked">unlocked</string>
+    <string name="app_name">A Better Camera</string>
+    <string name="bestshot_mode_howto"/>
+    <string name="bestshot_mode_name">Best Shot</string>
+    <string name="blockingText">Please wait, processing...</string>
+    <string name="burst_mode_howto"/>
+    <string name="burst_mode_name">Burst</string>
+    <string name="button_start_search">Start device discovery</string>
+    <string name="cameraBack">Back</string>
+    <string name="cameraFront">Front</string>
+    <string name="cameraSony">Sony</string>
+    <string name="camera_permission_rationaly_message">Application can\'t be used until got access to device\'s camera. Camera can\'t be opened.</string>
+    <string name="camera_permission_rationaly_title">Access to camera</string>
+    <string name="cannot_create_jpeg">Error: Unable to save image!</string>
+    <string name="capture_less_raw">Not enough memory for capture all RAW frames, will be captured less RAW frames</string>
+    <string name="capture_only_jpeg">Not enough memory for capture RAW frames, will be captured only JPEG frames</string>
+    <string name="capturing">Capturing</string>
+    <string name="choose_folder">Choose folder</string>
+    <string name="choose_folder_alert_0">Oops</string>
+    <string name="choose_folder_alert_0_2">New folder name</string>
+    <string name="choose_folder_alert_1">Sorry, we can\'t put your photos here :(</string>
+    <string name="choose_folder_alert_1_2">Sorry, we can\'t create a folder here :(</string>
+    <string name="choose_folder_alert_2">OK</string>
+    <string name="choose_folder_alert_2_1">Create</string>
+    <string name="choose_folder_alert_2_2">Cancel</string>
+    <string name="choose_folder_newfolder">New folder</string>
+    <string name="choose_folder_pick">Use this folder</string>
+    <string name="colorEffectAqua">Aqua</string>
+    <string name="colorEffectAquaSystem">aqua</string>
+    <string name="colorEffectBlackboard">Blackboard</string>
+    <string name="colorEffectBlackboardSystem">blackboard</string>
+    <string name="colorEffectMono">Mono</string>
+    <string name="colorEffectMonoSystem">mono</string>
+    <string name="colorEffectNegative">Negative</string>
+    <string name="colorEffectNegativeSystem">negative</string>
+    <string name="colorEffectOff">Off</string>
+    <string name="colorEffectOffSystem">none</string>
+    <string name="colorEffectPosterize">Posterize</string>
+    <string name="colorEffectPosterizeSystem">posterize</string>
+    <string name="colorEffectSepia">Sepia</string>
+    <string name="colorEffectSepiaSystem">sepia</string>
+    <string name="colorEffectSolarize">Solarize</string>
+    <string name="colorEffectSolarizeSystem">solarize</string>
+    <string name="colorEffectWhiteboard">Whiteboard</string>
+    <string name="colorEffectWhiteboardSystem">whiteboard</string>
+    <string name="dimensions_none">None</string>
+    <string name="dro_warning">Low FPS on your device. \n\nHDR Video needs lots of processing resources to make video with acceptable fps rate. Unfortunately not possible on your device. Your fps rate will be: </string>
+    <string name="editorAdvText">You can edit your images in our FREE A Better Editor&amp;Effects! Filters, effects and much more!</string>
+    <string name="editorInstallText">Install Editor</string>
+    <string name="editorNoText">Remind later</string>
+    <string name="ev_zero">0</string>
+    <string name="expobracketing_mode_howto"/>
+    <string name="expobracketing_mode_name">Expo-bracketing</string>
+    <string name="flashAuto">Auto</string>
+    <string name="flashAutoKey">00_auto</string>
+    <string name="flashAutoSystem">auto</string>
+    <string name="flashCaptureTorch">Torch for capturing</string>
+    <string name="flashCaptureTorchSystem">captureTorch</string>
+    <string name="flashOff">Off</string>
+    <string name="flashOffKey">02_off</string>
+    <string name="flashOffSystem">off</string>
+    <string name="flashOn">On</string>
+    <string name="flashOnKey">01_on</string>
+    <string name="flashOnSystem">on</string>
+    <string name="flashRedEye">Red eye</string>
+    <string name="flashRedEyeKey">03_red-eye</string>
+    <string name="flashRedEyeSystem">red-eye</string>
+    <string name="flashTimerText">Flash at countdown</string>
+    <string name="flashTorch">Torch</string>
+    <string name="flashTorchKey">04_torch</string>
+    <string name="flashTorchSystem">torch</string>
+    <string name="focusAFLock">AF lock</string>
+    <string name="focusAfLockKey">08_af-lock</string>
+    <string name="focusAfLockSystem">af-lock</string>
+    <string name="focusAuto">Auto</string>
+    <string name="focusAutoKey">00_auto</string>
+    <string name="focusAutoSystem">auto</string>
+    <string name="focusContinuousPicture">Continuous picture</string>
+    <string name="focusContinuousPictureKey">02_continuous-picture</string>
+    <string name="focusContinuousPictureSystem">continuous-picture</string>
+    <string name="focusContinuousVideo">Continuous video</string>
+    <string name="focusContinuousVideoKey">01_continuous-video</string>
+    <string name="focusContinuousVideoSystem">continuous-video</string>
+    <string name="focusEdof">Edof</string>
+    <string name="focusEdofKey">07_edof</string>
+    <string name="focusEdofSystem">edof</string>
+    <string name="focusFixed">Fixed</string>
+    <string name="focusFixedKey">05_fixed</string>
+    <string name="focusFixedSystem">fixed</string>
+    <string name="focusInfinity">Infinity</string>
+    <string name="focusInfinityKey">06_infinity</string>
+    <string name="focusInfinitySystem">infinity</string>
+    <string name="focusMF">Manual</string>
+    <string name="focusMFKey">09_manual-focus</string>
+    <string name="focusMFSystem">manual-focus</string>
+    <string name="focusMacro">Macro</string>
+    <string name="focusMacroKey">04_macro</string>
+    <string name="focusMacroSystem">macro</string>
+    <string name="focusNormal">Normal</string>
+    <string name="focusNormalKey">03_normal</string>
+    <string name="focusNormalSystem">normal</string>
+    <string name="groupshot_mode_howto"/>
+    <string name="groupshot_mode_name">Group shot</string>
+    <string name="hdr_mode_howto"/>
+    <string name="hdr_mode_name">HDR</string>
+    <string name="helpTextDontShow">Do not show</string>
+    <string name="hiresportrait_mode_howto"/>
+    <string name="hiresportrait_mode_name">Hires portrait</string>
+    <string name="hold_still">Hold still!</string>
+    <string name="iso100">ISO 100</string>
+    <string name="iso10000">ISO 10000</string>
+    <string name="iso10000DefaultSystem">10000</string>
+    <string name="iso10000Key">9_ISO10000</string>
+    <string name="iso10000System">ISO10000</string>
+    <string name="iso100DefaultSystem">100</string>
+    <string name="iso100Key">2_ISO100</string>
+    <string name="iso100System">ISO100</string>
+    <string name="iso1600">ISO 1600</string>
+    <string name="iso1600DefaultSystem">1600</string>
+    <string name="iso1600Key">6_ISO1600</string>
+    <string name="iso1600System">ISO1600</string>
+    <string name="iso200">ISO 200</string>
+    <string name="iso200DefaultSystem">200</string>
+    <string name="iso200Key">3_ISO200</string>
+    <string name="iso200System">ISO200</string>
+    <string name="iso3200">ISO 3200</string>
+    <string name="iso3200DefaultSystem">3200</string>
+    <string name="iso3200Key">7_ISO3200</string>
+    <string name="iso3200System">ISO3200</string>
+    <string name="iso400">ISO 400</string>
+    <string name="iso400DefaultSystem">400</string>
+    <string name="iso400Key">4_ISO400</string>
+    <string name="iso400System">ISO400</string>
+    <string name="iso50">ISO 50</string>
+    <string name="iso50DefaultSystem">50</string>
+    <string name="iso50Key">1_ISO50</string>
+    <string name="iso50System">ISO50</string>
+    <string name="iso6400">ISO 6400</string>
+    <string name="iso6400DefaultSystem">6400</string>
+    <string name="iso6400Key">8_ISO6400</string>
+    <string name="iso6400System">ISO6400</string>
+    <string name="iso800">"ISO 800"</string>
+    <string name="iso800DefaultSystem">"800"</string>
+    <string name="iso800Key">"5_ISO800"</string>
+    <string name="iso800System">"ISO800"</string>
+    <string name="isoAuto">ISO Auto</string>
+    <string name="isoAutoDefaultSystem">auto</string>
+    <string name="isoAutoKey">0_auto</string>
+    <string name="isoAutoSystem">auto</string>
+    <string name="layout_hint_bottom">Select camera mode</string>
+    <string name="layout_hint_center">Swipe for more/less info</string>
+    <string name="layout_hint_top_center">Pull for more options</string>
+    <string name="layout_hint_top_left">Long-press\nto configure</string>
+    <string name="layout_preshot_hint">Swipe to flip photos</string>
+    <string name="location_permission_rationaly_message">Application can\'t save geotags until got access to location.</string>
+    <string name="location_permission_rationaly_title">Access to location</string>
+    <string name="manual_exposure_unsupported">Device supports exposure metering only in center. Exposure point can\'t be moved.</string>
+    <string name="meteringAutoSystem">Auto</string>
+    <string name="meteringCenterSystem">Center-weighted</string>
+    <string name="meteringManualSystem">Shutter speed</string>
+    <string name="meteringMatrixSystem">Matrix</string>
+    <string name="meteringSpotSystem">Spot</string>
+    <string name="microphone_permission_rationaly_message">Recorded videos will not contain audio track, if application don\'t have access to microphone.</string>
+    <string name="microphone_permission_rationaly_title">Access to microphone</string>
+    <string name="moreText">More...</string>
+    <string name="msg_connecting">Connecting to Sony camera...</string>
+    <string name="msg_downloading">Image downloading...</string>
+    <string name="msg_search_devices">Connect to compatible camera via Wi-Fi settings before device discovery. Or use NFC connection.</string>
+    <string name="msg_wifi_disconnect">(Wi-Fi disconnected)</string>
+    <string name="multishot_mode_howto"/>
+    <string name="multishot_mode_name">Smart multishot</string>
+    <string name="night_mode_howto"/>
+    <string name="night_mode_name">Night</string>
+    <string name="not_enough_memory_for_capture">Not enough memory for capture all RAW frames, will be captured less RAW frames or only JPEG frames</string>
+    <string name="objectremoval_mode_howto"/>
+    <string name="objectremoval_mode_name">Object removal</string>
+    <string name="okText">OK</string>
+    <string name="panorama_mode_howto"/>
+    <string name="panorama_mode_name">Panorama</string>
+    <string name="photoTimeLapseTitle">Photo timelapse</string>
+    <string name="plugin_capture_panoramaaugmented_badframe">Please hold still when taking picture</string>
+    <string name="plugin_capture_panoramaaugmented_modeswitch_augmented">HD</string>
+    <string name="plugin_capture_panoramaaugmented_modeswitch_sweep">Sweep</string>
+    <string name="plugin_capture_panoramaaugmented_outofmemory">Sorry, this is maximum frames we can fit in device memory.</string>
+    <string name="plugin_capture_panoramaaugmented_stopcapture">Got 360 panorama! Processing...</string>
+    <string name="pref_advanced_saving_saveToPref_CantSaveToSD">Android KitKat does not allow saving to sdcard. Android limitations.</string>
+    <string name="pref_advanced_saving_saveToPref_summary">Select location to store images</string>
+    <string name="pref_advanced_saving_saveToPref_title">Save to...</string>
+    <string name="pref_antibanding_auto">Auto</string>
+    <string name="pref_antibanding_off">Off</string>
+    <string name="pref_general_more_sonyCamera_available">Sony cameras available only in Single and Video modes.</string>
+    <string name="pref_plugin_capture_panoramaaugmented_aelock_title">Panorama AE/AWB lock</string>
+    <string name="pref_plugin_capture_panoramaaugmented_frameoverlap_title">Frame overlap</string>
+    <string name="pref_plugin_capture_panoramaaugmented_imageheight_title">Panorama height</string>
+    <string name="pref_plugin_capture_panoramaaugmented_imageheight_warning">You can take %d frames with this resolution</string>
+    <string name="pref_plugin_capture_panoramaaugmented_memory_summary">Allow more frames but may cause a crash due to out of memory</string>
+    <string name="pref_plugin_capture_panoramaaugmented_memory_title">Relax memory constraints</string>
+    <string name="pref_plugin_capture_panoramaaugmented_nogyro_dialog_text">There is no gyroscope on your device, sorry. We instead enable our software gyroscope to enhance your experience</string>
+    <string name="pref_plugin_capture_panoramaaugmented_nogyro_dialog_title">No gyroscope</string>
+    <string name="pref_plugin_capture_panoramaaugmented_preference_summary">HD Panorama capturing</string>
+    <string name="pref_plugin_capture_panoramaaugmented_preference_title">Panorama</string>
+    <string name="pref_plugin_capture_panoramaaugmented_usehardwaregyro_summary">Hardware gyroscope required. If not checked we instead will use our software gyroscope</string>
+    <string name="pref_plugin_capture_panoramaaugmented_usehardwaregyro_title">Use device gyroscope</string>
+    <string name="pref_plugin_processing_panorama_preference_summary">Panorama wide images processing</string>
+    <string name="pref_plugin_processing_panorama_preference_title">Panorama processing</string>
+    <string name="pref_plugin_processing_panorama_saveoriginalframes_title">Save original frames</string>
+    <string name="pref_shot_on_tap_double_click">Double click</string>
+    <string name="pref_shot_on_tap_none">None</string>
+    <string name="pref_shot_on_tap_one_click">One click</string>
+    <string name="pref_timestamp_color_black">Black</string>
+    <string name="pref_timestamp_color_white">White</string>
+    <string name="pref_timestamp_color_yellow">Yellow</string>
+    <string name="pref_timestamp_fontsize_big">Big</string>
+    <string name="pref_timestamp_fontsize_normal">Medium</string>
+    <string name="pref_timestamp_fontsize_small">Small</string>
+    <string name="pref_timestamp_saving_abbreviation_title">Month name</string>
+    <string name="pref_timestamp_saving_color_title">Color</string>
+    <string name="pref_timestamp_saving_custom_text_title">Text</string>
+    <string name="pref_timestamp_saving_date_title">Date</string>
+    <string name="pref_timestamp_saving_font_size_title">Font size</string>
+    <string name="pref_timestamp_saving_separator_title">Separator</string>
+    <string name="pref_timestamp_saving_time_title">Time</string>
+    <string name="pref_timestamp_separator_dashes">"-" dash</string>
+    <string name="pref_timestamp_separator_dots">"." dot</string>
+    <string name="pref_timestamp_separator_slash">"/" slash</string>
+    <string name="pref_timestamp_separator_spaces">" " space</string>
+    <string name="preshot_mode_howto">Tap shutter to start/stop capture</string>
+    <string name="preshot_mode_name">Preshot</string>
+    <string name="processing_not_finished">Processing is not finished yet. Please wait.</string>
+    <string name="promoRedeemedJulius">Successfully unlocked Panorama and Multishot modes.</string>
+    <string name="raterMain">If you enjoy using A Better Camera, please take a moment to rate it.\n\nThanks for your support!</string>
+    <string name="raterNo">No, thanks</string>
+    <string name="raterRate">Rate A Better Camera</string>
+    <string name="raterSend">Send</string>
+    <string name="raterSendReview"> We care about your opinion and want to make ABC better. Send your review directly to support.</string>
+    <string name="saveInputPrefMultiShot">saveInputPrefMultiShot</string>
+    <string name="save_to_custom">Custom folder</string>
+    <string name="save_to_memorycard">Memory Card</string>
+    <string name="save_to_phone">Phone</string>
+    <string name="sceneAR">AR</string>
+    <string name="sceneARKey">02_AR</string>
+    <string name="sceneARSystem">AR</string>
+    <string name="sceneAction">Action</string>
+    <string name="sceneActionKey">01_action</string>
+    <string name="sceneActionSystem">action</string>
+    <string name="sceneAuto">Auto</string>
+    <string name="sceneAutoKey">00_auto</string>
+    <string name="sceneAutoSystem">auto</string>
+    <string name="sceneBarcode">Barcode</string>
+    <string name="sceneBarcodeKey">03_barcode</string>
+    <string name="sceneBarcodeSystem">barcode</string>
+    <string name="sceneBeach">Beach</string>
+    <string name="sceneBeachKey">04_beach</string>
+    <string name="sceneBeachSystem">beach</string>
+    <string name="sceneCandlelight">Candlelight</string>
+    <string name="sceneCandlelightKey">05_candlelight</string>
+    <string name="sceneCandlelightSystem">candlelight</string>
+    <string name="sceneFireworks">Fireworks</string>
+    <string name="sceneFireworksKey">06_fireworks</string>
+    <string name="sceneFireworksSystem">fireworks</string>
+    <string name="sceneHDR">HDR</string>
+    <string name="sceneHDRKey">07_hdr</string>
+    <string name="sceneHDRSystem">hdr</string>
+    <string name="sceneLandscape">Landscape</string>
+    <string name="sceneLandscapeKey">08_landscape</string>
+    <string name="sceneLandscapeSystem">landscape</string>
+    <string name="sceneNight">Night</string>
+    <string name="sceneNightKey">09_night</string>
+    <string name="sceneNightPortrait">Night portrait</string>
+    <string name="sceneNightPortraitKey">10_night-portrait</string>
+    <string name="sceneNightPortraitSystem">night-portrait</string>
+    <string name="sceneNightSystem">night</string>
+    <string name="sceneParty">Party</string>
+    <string name="scenePartyKey">11_party</string>
+    <string name="scenePartySystem">party</string>
+    <string name="scenePortrait">Portrait</string>
+    <string name="scenePortraitKey">12_portrait</string>
+    <string name="scenePortraitSystem">portrait</string>
+    <string name="sceneSnow">Snow</string>
+    <string name="sceneSnowKey">13_snow</string>
+    <string name="sceneSnowSystem">snow</string>
+    <string name="sceneSports">Sports</string>
+    <string name="sceneSportsKey">14_sports</string>
+    <string name="sceneSportsSystem">sports</string>
+    <string name="sceneSteadyPhoto">Steadyphoto</string>
+    <string name="sceneSteadyPhotoKey">15_steadyphoto</string>
+    <string name="sceneSteadyPhotoSystem">steadyphoto</string>
+    <string name="sceneSunset">Sunset</string>
+    <string name="sceneSunsetKey">16_sunset</string>
+    <string name="sceneSunsetSystem">sunset</string>
+    <string name="sceneTheatre">Theatre</string>
+    <string name="sceneTheatreKey">17_theatre</string>
+    <string name="sceneTheatreSystem">theatre</string>
+    <string name="secondsText">seconds</string>
+    <string name="selfTimerTitle">Self timer</string>
+    <string name="selftimer_mode_howto"/>
+    <string name="selftimer_mode_name">Self-Timer</string>
+    <string name="sequence_mode_howto"/>
+    <string name="sequence_mode_name">Sequence photo</string>
+    <string name="setTimerText">Set</string>
+    <string name="setVideoText">Set</string>
+    <string name="settings_mode_aeaflock">AE\\AF Locked</string>
+    <string name="settings_mode_aeafunlock">AE\\AF UnLocked</string>
+    <string name="settings_mode_color_effect">Color effect</string>
+    <string name="settings_mode_exposure">Exposure compensation</string>
+    <string name="settings_mode_exposuretime">Exposure time</string>
+    <string name="settings_mode_flash">Flash mode</string>
+    <string name="settings_mode_focus">Focus mode</string>
+    <string name="settings_mode_focusdistance">Focus distance</string>
+    <string name="settings_mode_front">Front camera</string>
+    <string name="settings_mode_image_size">Image size</string>
+    <string name="settings_mode_iso">ISO</string>
+    <string name="settings_mode_metering">Exposure metering mode</string>
+    <string name="settings_mode_moresettings">More settings</string>
+    <string name="settings_mode_rear">Rear camera</string>
+    <string name="settings_mode_scene">Scene mode</string>
+    <string name="settings_mode_self_timer">Self-timer</string>
+    <string name="settings_mode_wb">White balance</string>
+    <string name="settings_not_available">Not available in current mode</string>
+    <string name="single_mode_howto"/>
+    <string name="single_mode_name">Single shot</string>
+    <string name="soundTimerText">Sound at countdown</string>
+    <string name="storage_permission_rationaly_message">Application can\'t be used until got access to device\'s storage. Captured images and videos can\'t be saved.</string>
+    <string name="storage_permission_rationaly_title">Access to storage</string>
+    <string name="storeFeatures"/>
+    <string name="storeWhatsnew">  Version 3.25\n\n   New:\n    - HDR video (for Android 4.3 and higher)\n    - pause for video\n    - level tool\n    - sweep panorama\n\n   Improved:\n    - panorama capture and processing\n    - DRO, HDR, Night processing\n    - multishots combined in one mode\n    - faster processing\n\n   Bug fixes:\n    - video fixed\n    - stability fixes</string>
+    <string name="string_appoftheday">You have now the Pro version, thanks to App of the Day</string>
+    <string name="string_processing_and_saving_image">Image processing and saving...</string>
+    <string name="subscriptionNoText">Not now</string>
+    <string name="subscriptionText">Use premium features FREE for 3 months - subscribe now!</string>
+    <string name="subscriptionYesText">Subscribe me!</string>
+    <string name="super_mode_name">Super</string>
+    <string name="textOff">OFF</string>
+    <string name="textOn">ON</string>
+    <string name="timeLapseTitle">Time lapse</string>
+    <string name="title_connecting">Please wait</string>
+    <string name="title_downloading">Downloading</string>
+    <string name="trial_finished">Free %1$s shots exhausted, please unlock</string>
+    <string name="trial_left">%1$s mode free shots left: %2$d</string>
+    <string name="video_mode_howto"/>
+    <string name="video_mode_name">Video</string>
+    <string name="video_paused">Recording paused</string>
+    <string name="volumeBtnExpoCorrection">Exposure correction</string>
+    <string name="volumeBtnNone">None</string>
+    <string name="volumeBtnTakePic">Take picture</string>
+    <string name="volumeBtnZoom">Zoom</string>
+    <string name="wbAuto">Auto</string>
+    <string name="wbAutoKey">00_auto</string>
+    <string name="wbAutoSonyRemote">Auto WB</string>
+    <string name="wbAutoSystem">auto</string>
+    <string name="wbCloudyDaylight">Cloudy daylight</string>
+    <string name="wbCloudyDaylightKey">01_cloudy-daylight</string>
+    <string name="wbCloudyDaylightSonyRemote">Cloudy</string>
+    <string name="wbCloudyDaylightSystem">cloudy-daylight</string>
+    <string name="wbDaylight">Daylight</string>
+    <string name="wbDaylightKey">02_daylight</string>
+    <string name="wbDaylightSonyRemote">Daylight</string>
+    <string name="wbDaylightSystem">daylight</string>
+    <string name="wbFluorescent">Fluorescent</string>
+    <string name="wbFluorescentKey">03_fluorescent</string>
+    <string name="wbFluorescentSystem">fluorescent</string>
+    <string name="wbIncandescent">Incandescent</string>
+    <string name="wbIncandescentKey">04_incandescent</string>
+    <string name="wbIncandescentSonyRemote">Incandescent</string>
+    <string name="wbIncandescentSystem">incandescent</string>
+    <string name="wbManual">Manual</string>
+    <string name="wbShade">Shade</string>
+    <string name="wbShadeKey">05_shade</string>
+    <string name="wbShadeSonyRemote">Shade</string>
+    <string name="wbShadeSystem">shade</string>
+    <string name="wbTwilight">Twilight</string>
+    <string name="wbTwilightKey">06_twilight</string>
+    <string name="wbTwilightSystem">twilight</string>
+    <string name="wbWarmFluorescent">Warm fluorescent</string>
+    <string name="wbWarmFluorescentKey">07_warm-fluorescent</string>
+    <string name="wbWarmFluorescentSonyRemote">Fluorescent: Warm White </string>
+    <string name="wbWarmFluorescentSystem">warm-fluorescent</string>
+    <string name="widgetActivation">Launcher activation</string>
+    <string name="widgetAlert">Warning!</string>
+    <string name="widgetBarcodeItem">Barcode scanner</string>
+    <string name="widgetBgColorTitle">Launcher background color</string>
+    <string name="widgetBgColorTitleBlack">Solid black</string>
+    <string name="widgetBgColorTitleRed">Red</string>
+    <string name="widgetBgColorTitleTranslucent">Translucent</string>
+    <string name="widgetBgColorTitleTransparent">Transparent</string>
+    <string name="widgetConfigTitle">Launcher structure</string>
+    <string name="widgetConfigureDoneText">Done</string>
+    <string name="widgetFullSolidName">ABC Launcher Full</string>
+    <string name="widgetGoShopText">Google Play</string>
+    <string name="widgetHideItem">Hide</string>
+    <string name="widgetHideSettingsText">Removing all Settings buttons will make unable to configure current launcher anymore!</string>
+    <string name="widgetLauncherContent">To place the launcher on your home screen, choose an \"ABC Launcher Grid/Compact/Full\" from the Widget tab in your list of apps.</string>
+    <string name="widgetLauncherTitle">A Better Camera Launcher</string>
+    <string name="widgetLoadingText">Loading…</string>
+    <string name="widgetName">ABC Launcher Grid</string>
+    <string name="widgetSettingsItem">Settings</string>
+    <string name="widgetShopText">To activate launcher you have to install A Better Camera application.</string>
+    <string name="widgetSolidName">ABC Launcher Compact</string>
+    <string name="widgetTorchItem">Torch</string>
+    <style name="AlmalenceOpenCameraTheme" parent="@android:style/Theme.Holo.NoActionBar.Fullscreen">
+		<item name="android:seekBarStyle">@style/AlmalenceOpenCameraThemeSeekBar</item>
+	</style>
+    <style name="AlmalenceOpenCameraThemeSeekBar" parent="android:Widget.Holo.Light.SeekBar">
+      <item name="android:progressDrawable">@drawable/apptheme_scrubber_progress_horizontal_holo_light</item>
+      <item name="android:indeterminateDrawable">@drawable/apptheme_scrubber_progress_horizontal_holo_light</item>
+      <item name="android:thumb">@drawable/apptheme_scrubber_control_selector_holo_light</item>
+  </style>
+    <style name="AnimationPopup" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/gui_almalence_sharepopup_enter</item>
+        <item name="android:windowExitAnimation">@anim/gui_almalence_sharepopup_exit</item>
+    </style>
+    <style name="AppThemeDark" parent="@android:style/Theme.DeviceDefault">
+		<item name="switchStyle">@style/switch_dark</item>
+		<item name="textAppearance">@style/TextAppearance</item>
+		<item name="android:seekBarStyle">@style/AlmalenceOpenCameraThemeSeekBar</item>
+	</style>
+    <style name="AppThemeLight" parent="@android:style/Theme.DeviceDefault.Light">
+		<item name="switchStyle">@style/switch_light</item>
+		<item name="textAppearance">@style/TextAppearance</item>
+		<item name="android:seekBarStyle">@style/AlmalenceOpenCameraThemeSeekBar</item>
+	</style>
+    <style name="CountDownTimerStyle">        
+    	<item name="android:textColor">#FFFFFF</item>
+    	<item name="android:textSize">200sp</item>
+    	<item name="android:shadowColor">#000000</item>
+    	<item name="android:shadowDx">2</item>
+    	<item name="android:shadowDy">2</item>
+    	<item name="android:shadowRadius">2</item>
+    </style>
+    <style name="OnViewfinderLabel">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:paddingLeft">15dp</item>
+        <item name="android:paddingRight">15dp</item>
+        <item name="android:paddingTop">3dp</item>
+        <item name="android:paddingBottom">3dp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:background">@drawable/bg_text_on_preview</item>
+    </style>
+    <style name="OpenCameraStyle" parent="@android:style/Theme.NoTitleBar.Fullscreen">        
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:typeface">monospace</item>
+    </style>
+    <style name="ResultButton" parent="@android:style/Widget.Holo.Button.Borderless.Small">
+    <item name="android:layout_width">0dip</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:layout_weight">1</item>
+  </style>
+    <style name="ReviewControlIcon">
+        <item name="android:layout_height">60dp</item>
+        <item name="android:layout_width">60dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="ReviewThumbnail">
+        <item name="android:layout_width">52dp</item>
+        <item name="android:layout_height">52dp</item>
+    </style>
+    <style name="SettingsStyle" parent="@android:style/Theme.NoTitleBar.Fullscreen">        
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:background">@drawable/thumbnail_background</item>
+    </style>
+    <style name="TextAppearance">
+        <item name="textColor">?android:attr/textColorPrimary</item>
+        <item name="textColorHighlight">?android:attr/textColorHighlight</item>
+        <item name="textColorHint">?android:attr/textColorHint</item>
+        <item name="textColorLink">?android:attr/textColorLink</item>
+        <item name="textSize">@dimen/nightmodeswitcher_textsize</item>
+    </style>
+    <style name="Theme.Transparent" parent="android:Theme">
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowBackground">@android:color/transparent</item>
+    <item name="android:windowContentOverlay">@null</item>
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowIsFloating">true</item>
+    <item name="android:backgroundDimEnabled">true</item>
+  </style>
+    <style name="switch_dark">
+        <item name="track">@drawable/switch_track_holo_dark</item>
+        <item name="thumb">@drawable/switch_inner_holo_dark</item>
+        <item name="textOn">@string/textOn</item>
+        <item name="textOff">@string/textOff</item>
+        <item name="thumbTextPadding">3dip</item>
+        <item name="switchMinWidth">48dip</item>
+        <item name="switchMinHeight">24dip</item>
+        <item name="switchPadding">4dip</item>
+        <item name="switchTextAppearance">@style/TextAppearance</item>
+    </style>
+    <style name="switch_light">
+        <item name="track">@drawable/switch_track_holo_light</item>
+        <item name="thumb">@drawable/switch_inner_holo_light</item>
+        <item name="textOn">@string/textOn</item>
+        <item name="textOff">@string/textOff</item>
+        <item name="thumbTextPadding">3dip</item>
+        <item name="switchMinWidth">48dip</item>
+        <item name="switchMinHeight">24dip</item>
+        <item name="switchPadding">4dip</item>
+        <item name="switchTextAppearance">@style/TextAppearance</item>
+    </style>
+    <declare-styleable name="GalleryTheme">  
+  <attr name="android:galleryItemBackground"/> 
+ </declare-styleable>
+    <declare-styleable name="Panel">
+        
+        <attr format="integer" name="animationDuration"/>
+        
+        <attr name="position">
+        	<!-- Panel placed at top of the screen. -->
+            <enum name="top" value="0"/>
+            <!-- Panel placed at bottom of the screen. -->
+            <enum name="bottom" value="1"/>
+            <!-- Panel placed at left of the screen. -->
+            <enum name="left" value="2"/>
+            <!-- Panel placed at right of the screen. -->
+            <enum name="right" value="3"/>
+        </attr>
+        
+        <attr format="boolean" name="linearFlying"/>
+        
+        <attr format="reference|color" name="openedHandle"/>
+        
+        <attr format="reference|color" name="closedHandle"/>
+        
+        <attr format="dimension" name="downSpace"/>
+    </declare-styleable>
+    <declare-styleable name="RotateLayout_Layout">
+		<attr format="integer" name="layout_angle"/>
+	</declare-styleable>
+    <declare-styleable name="Switch">
+        <attr format="reference" name="thumb"/>
+        <attr format="reference" name="track"/>
+        <attr format="string" name="textOn"/>
+        <attr format="string" name="textOff"/>
+        <attr format="dimension" name="thumbTextPadding"/>
+        <attr format="reference" name="switchTextAppearance"/>
+        <attr format="dimension" name="switchMinWidth"/>
+        <attr format="dimension" name="switchMinHeight"/>
+        <attr format="dimension" name="switchPadding"/>
+	</declare-styleable>
+    <declare-styleable name="TextAppearanceSwitch">
+      	<attr format="color" name="textColor"/> 
+        <attr format="dimension" name="textSize"/>
+        <attr format="reference" name="textStyle"/>
+        <attr format="reference" name="typeface"/>
+        <attr format="reference" name="fontFamily"/>
+        <attr format="color" name="textColorHighlight"/>
+        <attr format="color" name="textColorHint"/>
+        <attr format="color" name="textColorLink"/>
+        <attr format="boolean" name="textAllCaps"/>
+    </declare-styleable>
+</resources>

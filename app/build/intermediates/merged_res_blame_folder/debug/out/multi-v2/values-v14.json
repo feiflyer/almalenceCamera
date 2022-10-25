@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.almalence.opencam.app-mergeDebugResources-3:/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "/Users/fly/Documents/TestPro/almalenceCamera1/app/src/main/res/values-v14/style_gui_almalence_settings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "114",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "406"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "347"
+                    }
+                }
+            ]
+        }
+    ]
+}

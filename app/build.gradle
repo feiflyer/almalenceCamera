@@ -1,0 +1,38 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "33.0.0"
+
+    defaultConfig {
+        applicationId "com.almalence.opencam"
+        minSdkVersion 14
+        targetSdkVersion 24
+
+        ndk {
+            abiFilters "armeabi-v7a"
+        }
+    }
+
+    sourceSets {
+        main {
+            //将依赖库打进apk,否则可能出现找不到库
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+
+
+dependencies {
+    api fileTree(dir: 'libs', include: ['*.jar'])
+    api 'com.android.support:support-v4:23.0.0'
+    api 'com.google.zxing:core:2.1'
+}

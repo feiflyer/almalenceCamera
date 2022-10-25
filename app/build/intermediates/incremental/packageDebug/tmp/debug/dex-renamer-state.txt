@@ -1,0 +1,4 @@
+#Fri Oct 21 10:06:49 CST 2022
+base.0=/Users/fly/Documents/TestPro/almalenceCamera1/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

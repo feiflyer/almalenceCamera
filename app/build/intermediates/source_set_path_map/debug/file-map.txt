@@ -1,0 +1,8 @@
+com.almalence.opencam.app-pngs-0 /Users/fly/Documents/TestPro/almalenceCamera1/app/build/generated/res/pngs/debug
+com.almalence.opencam.app-resValues-1 /Users/fly/Documents/TestPro/almalenceCamera1/app/build/generated/res/resValues/debug
+com.almalence.opencam.app-rs-2 /Users/fly/Documents/TestPro/almalenceCamera1/app/build/generated/res/rs/debug
+com.almalence.opencam.app-mergeDebugResources-3 /Users/fly/Documents/TestPro/almalenceCamera1/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.almalence.opencam.app-mergeDebugResources-4 /Users/fly/Documents/TestPro/almalenceCamera1/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.almalence.opencam.app-merged_res-5 /Users/fly/Documents/TestPro/almalenceCamera1/app/build/intermediates/merged_res/debug
+com.almalence.opencam.app-debug-6 /Users/fly/Documents/TestPro/almalenceCamera1/app/src/debug/res
+com.almalence.opencam.app-main-7 /Users/fly/Documents/TestPro/almalenceCamera1/app/src/main/res

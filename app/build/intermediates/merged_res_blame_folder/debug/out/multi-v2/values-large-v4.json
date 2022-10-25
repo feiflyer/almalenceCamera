@@ -1,0 +1,145 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.almalence.opencam.app-mergeDebugResources-3:/values-large-v4/values-large-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/fly/Documents/TestPro/almalenceCamera1/app/src/main/res/values-large/plugin_processing_groupshot_dimension.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "75",
+                        "endOffsets": "128"
+                    },
+                    "to": {
+                        "startLines": "44",
+                        "startColumns": "4",
+                        "startOffsets": "2194",
+                        "endColumns": "75",
+                        "endOffsets": "2265"
+                    }
+                },
+                {
+                    "source": "/Users/fly/Documents/TestPro/almalenceCamera1/app/src/main/res/values-large/plugin_vf_infoset_dimension.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "57",
+                        "endOffsets": "110"
+                    },
+                    "to": {
+                        "startLines": "46",
+                        "startColumns": "4",
+                        "startOffsets": "2350",
+                        "endColumns": "57",
+                        "endOffsets": "2403"
+                    }
+                },
+                {
+                    "source": "/Users/fly/Documents/TestPro/almalenceCamera1/app/src/main/res/values-large/almalence_gui_integers.xml",
+                    "from": {
+                        "startLines": "5,4,3,2",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "211,160,108,57",
+                        "endColumns": "50,49,50,49",
+                        "endOffsets": "257,205,154,102"
+                    },
+                    "to": {
+                        "startLines": "54,55,57,58",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "2756,2807,2915,2966",
+                        "endColumns": "50,49,50,49",
+                        "endOffsets": "2802,2852,2961,3011"
+                    }
+                },
+                {
+                    "source": "/Users/fly/Documents/TestPro/almalenceCamera1/app/src/main/res/values-large/plugin_processing_objectremoval_dimension.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "79",
+                        "endOffsets": "132"
+                    },
+                    "to": {
+                        "startLines": "45",
+                        "startColumns": "4",
+                        "startOffsets": "2270",
+                        "endColumns": "79",
+                        "endOffsets": "2345"
+                    }
+                },
+                {
+                    "source": "/Users/fly/Documents/TestPro/almalenceCamera1/app/src/main/res/values-large/screen.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "43",
+                        "endOffsets": "94"
+                    },
+                    "to": {
+                        "startLines": "59",
+                        "startColumns": "4",
+                        "startOffsets": "3016",
+                        "endColumns": "43",
+                        "endOffsets": "3055"
+                    }
+                },
+                {
+                    "source": "/Users/fly/Documents/TestPro/almalenceCamera1/app/src/main/res/values-large/plugin_capture_night_dimension.xml",
+                    "from": {
+                        "startLines": "3,4,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "113,170,57",
+                        "endColumns": "55,57,54",
+                        "endOffsets": "164,223,107"
+                    },
+                    "to": {
+                        "startLines": "38,39,40",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1859,1915,1973",
+                        "endColumns": "55,57,54",
+                        "endOffsets": "1910,1968,2023"
+                    }
+                },
+                {
+                    "source": "/Users/fly/Documents/TestPro/almalenceCamera1/app/src/main/res/values-large/almalence_gui_dimens.xml",
+                    "from": {
+                        "startLines": "54,43,47,50,48,52,51,49,2,3,4,11,14,15,12,13,16,9,21,22,5,6,7,34,33,23,62,59,60,57,56,36,25,26,45,19,39,40,41,31,30,18,27,29,28,37",
+                        "startColumns": "3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3",
+                        "startOffsets": "2150,1717,1832,1986,1882,2092,2043,1935,56,103,148,408,561,610,459,513,662,349,830,881,196,248,300,1383,1335,934,2407,2302,2353,2250,2204,1438,992,1040,1775,777,1546,1596,1655,1286,1243,721,1094,1191,1140,1485",
+                        "endColumns": "47,51,48,55,51,51,47,49,45,43,46,49,47,50,52,46,52,52,49,51,50,50,42,48,46,51,40,49,47,45,44,45,46,52,50,46,48,57,55,42,41,54,44,50,49,54",
+                        "endOffsets": "2194,1765,1877,2038,1930,2140,2087,1981,98,143,191,454,605,657,508,556,711,398,876,929,243,295,339,1428,1378,982,2444,2348,2397,2292,2245,1480,1035,1089,1822,820,1591,1650,1707,1325,1281,772,1135,1238,1186,1536"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,41,42,43,47,48,49,50,51,52,53",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,104,157,207,264,317,370,419,470,517,562,610,661,710,762,816,864,918,972,1023,1076,1128,1180,1224,1274,1322,1375,1417,1468,1517,1564,1610,1657,1705,1759,1811,2028,2078,2137,2408,2452,2495,2551,2597,2649,2700",
+                        "endColumns": "48,52,49,56,52,52,48,50,46,44,47,50,48,51,53,47,53,53,50,52,51,51,43,49,47,52,41,50,48,46,45,46,47,53,51,47,49,58,56,43,42,55,45,51,50,55",
+                        "endOffsets": "99,152,202,259,312,365,414,465,512,557,605,656,705,757,811,859,913,967,1018,1071,1123,1175,1219,1269,1317,1370,1412,1463,1512,1559,1605,1652,1700,1754,1806,1854,2073,2132,2189,2447,2490,2546,2592,2644,2695,2751"
+                    }
+                },
+                {
+                    "source": "/Users/fly/Documents/TestPro/almalenceCamera1/app/src/main/res/values-large/plugin_vf_focus_cropfactor.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "58",
+                        "endOffsets": "111"
+                    },
+                    "to": {
+                        "startLines": "56",
+                        "startColumns": "4",
+                        "startOffsets": "2857",
+                        "endColumns": "57",
+                        "endOffsets": "2910"
+                    }
+                }
+            ]
+        }
+    ]
+}
